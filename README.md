@@ -1,7 +1,6 @@
-  
 https://github.com/bbauska/bmw.git  
 \- \[BMW Front End Suspension\](#bmw-suspension)  
- \* \[Guide to Choosing the Right Shingles\](#guide-shingles)  
+ \* \[How to Replace Front Suspension (video)\](#bmw-front-suspension)  
  \* \[Roofing Basics\](#roofing-basics)  
  \* \[Expert Tips\](#expert-tips)  
  \* \[Asphalt Shingles\](#ashalt-shingles)  
@@ -86,10 +85,11 @@ One of the most popular roofing materials in the country, asphalt shingles are e
 \<!----------------------- expert-tips  -------------------------------->  
 \<!--------------------------------------------------------------------->
 
-\<h4="expert-tips">Re-Roof Over Existing Shingles\</h4>  
-https://youtu.be/PuRoELYoUKY  
+\<h4="bmw-front-suspension">BMW Suspension Replace\</h4>  
+https://youtu.be/ytN-tYiS9HE
+
 \<br>  
-Sharp video on re-shingling.  
+Sharp video on replacing front suspension on 2004 BMW 325i E46.  
 \<br>  
 \<!--------------------------------------------------------------------->  
 \<!-------------------- asphalt-shingles ------------------------------->  
@@ -196,8 +196,8 @@ Fiberglas™ Reinforced Felt Underlayment adds an extra layer of protection bene
 RhinoRoof® U20 Synthetic Roofing Underlayment  
 RhinoRoof® U20 is 12 times stronger than #30 felt and offers excellent wind resistance and durability through heavy roof traffic and adverse weather conditions.  
 Titanium® UDL25, UDL30, & UDL50 Synthetic Roofing Underlayment  
-Titanium® X30 Premium Synthetic Underlayment  
-  
+Titanium® X30 Premium Synthetic Underlayment
+
 \<li>3rd Layer: Hip & Ridge Shingles\</li>  
 Overview\<br>  
 Berkshire® Hip & Ridge Shingles
@@ -207,8 +207,8 @@ Specifically designed for use with Berkshire® Collection Shingles, Berkshire® 
    Berkshire® Hip & Ridge Shingles features our patented SureNail® Technology with Triple Layer protection®. SureNail® Technology adds a layer of reinforcing fabric in the nailing zone.  
    Thickness, proportion and color selection reminiscent of natural slate  
    Limited lifetime warranty\*/† based on the coverage of the Berkshire® Shingle installed  
-   Berkshire® Hip & Ridge Shingles are required for the 15-year Algae Resistance Warranty\* on Berkshire® Collection Shingles  
-  
+   Berkshire® Hip & Ridge Shingles are required for the 15-year Algae Resistance Warranty\* on Berkshire® Collection Shingles
+
 \<li>4th Layer: Starter Shingles\</li>  
 Overview\<br>  
 Starter Shingles  
@@ -235,8 +235,8 @@ The Owens Corning® DeckSeal Roofing System offers numerous advantages over comp
    Attractive colors that complement popular shingle offerings  
    Peace of mind that one trusted manufacturer warrants\*\* both shingles and low slope roofing components
 
-The versatile DeckSeal Roofing System can be applied as either a 2 or 3 ply system providing excellent protection to meet a range of customer needs.   
-  
+The versatile DeckSeal Roofing System can be applied as either a 2 or 3 ply system providing excellent protection to meet a range of customer needs. 
+
 Properly ventilating your attic is one of the best ways to increase the longevity and performance of your roof. As part of a VentSure® Balanced Air Ventilation System of intake and exhaust, the VentSure® InFlow® Vent helps reduce heat and moisture buildup that can lead to ice damming and roof deterioration. The InFlow® Vent is an ideal solution for roofs without soffits or used as a supplemental intake on roofs requiring additional ventilation. Keeping your attic well-ventilated may even reduce your energy costs.\*
 
    Durable construction for long-lasting performance  
@@ -248,8 +248,8 @@ Properly ventilating your attic is one of the best ways to increase the longevit
 
 As a key component of a VentSure® Balanced Air Ventilation System, the VentSure® vents are an essential part of the Total Protection Roofing System^.
 
-\<h4>Which Roofing Shingle to Buy?\</h4>  
-  
+\<h4>Which Roofing Shingle to Buy?\</h4>
+
 !\[image\](https://user-images.githubusercontent.com/41387907/120050108-094c5680-bfd1-11eb-8ff1-9e5b2abd259c.png)
 
 \<hr size="8" width="45%" color="green">
@@ -257,8 +257,8 @@ As a key component of a VentSure® Balanced Air Ventilation System, the VentSure
 \<!--------------------------------------------------------------------->  
 \<!------------ roofing-components (anatomy of a roof) ----------------->  
 \<!--------------------------------------------------------------------->  
-\<h3 id="roofing-components">Roofing Components (or, what makes up a roof?)\</h3>  
-  
+\<h3 id="roofing-components">Roofing Components (or, what makes up a roof?)\</h3>
+
 !\[image\](https://user-images.githubusercontent.com/41387907/120049999-b4a8db80-bfd0-11eb-9317-22cde13b470c.png)
 
 \<hr size="8" width="45%" color="green">  
@@ -325,8 +325,8 @@ You can either use special shingles called ridge shingles or cut a number of reg
 
 \</ol>  
 \<h4>Using Alternate Patterns\</h4>  
-\<br>  
-  
+\<br>
+
 !\[Using Alternate Patterns\](https://user-images.githubusercontent.com/41387907/120051234-b1175380-bfd4-11eb-87ac-6263de99402a.png)
 
 \<h4>1. Understanding the Basic Patterns\</h4>  
@@ -338,34 +338,34 @@ The basic patterns include:
 \<li>4-inch offset\</li>  
 \<li>5-inch offset\</li>  
 \</ul>  
-\<br>  
-  
-!\[Stagger to achieve 1/2 pattern\](https://user-images.githubusercontent.com/41387907/120051730-9a71fc00-bfd6-11eb-9311-2b1fbac19c3c.png)  
-  
+\<br>
+
+!\[Stagger to achieve 1/2 pattern\](https://user-images.githubusercontent.com/41387907/120051730-9a71fc00-bfd6-11eb-9311-2b1fbac19c3c.png)
+
 \<h4>2. Stagger each course to achieve the half pattern.\</h4>  
 All the other patterns work in essentially the same way, offsetting the courses by a particular amount. For the 6-inch or "half" offset, you can protect butt joints and horizontally-moving water by starting a new course 6-inches in every row. Every seventh course, the butt joints will realign and offer stability and protection.  
-\<br>  
-  
+\<br>
+
 !\[4" and 5" offsets for added protection\](https://user-images.githubusercontent.com/41387907/120051762-d1481200-bfd6-11eb-951d-c8931de20417.png)
 
 \<h4>3. Consider four and five inch offsets for added protection.\</h4>  
 The method is exactly the same, though the measurement of the offset is slightly different. In an offset of four inches, standard shingles will realign every ten courses, while the five inch offsets will realign every eight. Understanding the benefits of each will help you decide which method to use for your roof:  
 The short overlap of the four inch offset is somewhat easier, allowing you to use cutouts to overlap every two courses, making less work for you. Unfortunately, because of this, the pattern is less desirable for extremely cold climates or very wet places.  
-For most DIY roofers, the five-inch offset is the most desirable pattern. It offers the most protection per shingle, making it much less likely that runoff will cut through the in-betweens, hiding shingle irregularities, and getting the most bang for your buck.  
-  
+For most DIY roofers, the five-inch offset is the most desirable pattern. It offers the most protection per shingle, making it much less likely that runoff will cut through the in-betweens, hiding shingle irregularities, and getting the most bang for your buck.
+
 !\[Racking? Dbl-check 1st\](https://user-images.githubusercontent.com/41387907/120051831-2f74f500-bfd7-11eb-8f53-e514a247c081.png)
 
 \<h4>4. Consider "racking" shingles until you reach the top on each side.\</h4>  
-The racking technique uses two sizes of the first shingle of each row, the regular 3 tab pieces and shortened pieces for each end, working vertically rather than horizontally. It goes much faster, allowing you to keep your tools next to you as you work and avoiding having to constantly reposition.  
-  
+The racking technique uses two sizes of the first shingle of each row, the regular 3 tab pieces and shortened pieces for each end, working vertically rather than horizontally. It goes much faster, allowing you to keep your tools next to you as you work and avoiding having to constantly reposition.
+
 Racking shingles sometimes also may create a condition called "pattern curling," where the shingles curl and blow in the wind, at the places where the racked columns join, because of lifting the end of a shingle to place the next shingle and lifting the end high enough to nail the next shingle underneath each of the overlapping shingles. This curling may lead to water getting under shingles, leaking at the places where racked columns meet.  
 \<br>  
-In some cases, racking may void the manufacturer's warranty on the expected leak-proofing quality and useful life of some brands of shingles. It's a common practice among contractors.  
-  
+In some cases, racking may void the manufacturer's warranty on the expected leak-proofing quality and useful life of some brands of shingles. It's a common practice among contractors.
+
 https://youtu.be/FdLahiPBWWs
 
-\<hr size="8" width="45%" color="green">  
-  
+\<hr size="8" width="45%" color="green">
+
 \<h4>Tier 1 Shingle Makers\</h4>  
 \<ul>  
 \<li>Atlas\</li>  
@@ -403,8 +403,8 @@ Step 3 - 3-tab 36" shingles with 5" reveal and 1/2" overlap at roof edge\<br>
 
 \<h4 id="shingle-recommended">Shingle Type Recommendations for Re-Roofing Asphalt Shingles\</h4>
 
-The heavier the shingle on the new layer, the less likely it is that irregularities in the surface below will telegraph through.  
-  
+The heavier the shingle on the new layer, the less likely it is that irregularities in the surface below will telegraph through.
+
 Say your in Chicago.  The windy city.  There you would want a high weight/square so your shingles don't blow into the Calumet river.  360 is max, 200 min.
 
 Laminated or other heavy-textured shingles work well, as they do not need to be carefully fitted to the existing shingles, and the irregular texture will conceal any small bumps or dips from the original roof.
@@ -442,8 +442,8 @@ The sketch above illustrates the end-profile of roof drip edge flashing and show
 
 !\[Drip Edge Flashing Placement\](https://user-images.githubusercontent.com/41387907/120088300-e3dc4d00-c0a3-11eb-8865-fee59e1cb764.png)
 
-Our illustration above shows proper placement of the roof drip edge atop the roof sheathing - before installation of roofing felt or ice and water shield and spaced a bit away from the fascia board to improve its drainage.  
-  
+Our illustration above shows proper placement of the roof drip edge atop the roof sheathing - before installation of roofing felt or ice and water shield and spaced a bit away from the fascia board to improve its drainage.
+
 \<h4>Use a Furring Strip to Improve Drip Edge Drainage\</h4>  
 Some roofing manufacturers such as IKO suggest installing a furring strip to make sure that the drip edge is spaced well out from the fascia.
 
@@ -451,8 +451,8 @@ Some roofing manufacturers such as IKO suggest installing a furring strip to mak
 
 If using a Type C drip edge, you can install a furring strip to increase its performance. A furring edge is a strip of one-by-two wood you install on the vertical surface of the house just beneath the roof’s edge. When you install the drip edge over this strip, it keeps the lower flange further from the home’s siding, which helps to keep water further from the home. (IKO 2019)
 
-In the sketch above the furring strip is shown in blue. Nail thefurring strip to the fascia board near the fascia top - tight under any extending of roof decking (usually absent); the Drip edge will be installed 1/8" proud of (away or out from) the furring strip in best practice or may be installed tight against the furring strip (reduces the life of the furring strip by rot).   
-  
+In the sketch above the furring strip is shown in blue. Nail thefurring strip to the fascia board near the fascia top - tight under any extending of roof decking (usually absent); the Drip edge will be installed 1/8" proud of (away or out from) the furring strip in best practice or may be installed tight against the furring strip (reduces the life of the furring strip by rot). 
+
 \<!----------------------- end of flashing ------------------------>  
 \<hr size="8" width="45%" color="green">  
    
