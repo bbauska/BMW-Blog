@@ -4,12 +4,12 @@ https://github.com/bbauska/bmw.git
 \- \[Cooling System\](#bmw-cooling-system)  
 \- \[Brakes\](#bmw-brakes)
 
-*   \[Sun/Moon Roof Remove & Repair\](#bmw-sunroof)  
-     \* \[Consumer Reports - How to Shop for Roofing Shingles\](#consumer-reports)  
-       + \[Roofing Shingles\](#cr-roofing-shingles)  
-       + \[Shingle Types\](#shingle-types)  
-       + \[Roofing - Where to Start\](#cr-roofing-start)  
-     \* \[How to Lay Shingles\](#how-to-lay-shingles)
+*   \[Parts & Tools\](#materials)
+
+\[Sun/Moon Roof Remove & Repair\](#bmw-sunroof)  
+ \* \[Shade Clip Remove & Repair\](#bmw-sunroof-shade-clip)  
+   + \[More Sun/Moon Roof\](#bmw-sunroof-etc)  
+ 
 
 \<hr size="8" width="90%" color="blue">
 
@@ -17,7 +17,7 @@ https://github.com/bbauska/bmw.git
 \<!-------------------- front suspension  ------------------------------>  
 \<!--------------------------------------------------------------------->
 
-\<h2 id="bmw-suspension">BMW Susension\</h2>  
+\<h2 id="bmw-suspension">BMW Suspension\</h2>  
 \<p>Parts is parts\<br>  
 Control arms and bushings, ball joints, tie rods, and stabilizer end links for a more complete front suspension rebuild
 
@@ -46,40 +46,10 @@ Control arms and bushings, ball joints, tie rods, and stabilizer end links for a
 \</ul>
 
 \<!--------------------------------------------------------------------->  
-\<!-------------------------- guide-shingles --------------------------->  
+\<!------------------------- sun / moon roof -------------------------->  
 \<!--------------------------------------------------------------------->  
-\<h3 id="guide-shingles">Guide to Choosing the Right Roofing Shingles\</h3>  
+\<h3 id="bmw-sunroof">BMW Sunroof - Guide to Removal and Repair\</h3>  
 \<h5>1. How Much Do Roof Shingles Cost?\</h5>
-
-Most homeowners pay between $4,700 and $10,460 for a new roof. When budgeting, keep in mind that the cost of installation and labor, as well as the cost of the material itself, will impact your bottom line. You’ll also need to account for the total square footage that your new shingles will cover. If you have a large roof area to cover, you might consider opting for cheaper materials.
-
-   For more tips on calculating the square footage of your roof, check out our guide on estimating roofing materials.
-
-\<h5>2. What Is the Slope and Pitch of Your Roof?\</h5>
-
-Slope refers to how steep the angle of your roof is, and is normally measured with two numbers representing the rise, or height of your roof, and the run, representing it’s length. As an example, a slope of 4:12 indicates that a roof rises four feet and runs 12 feet. Depending on how steep the slope of your roof is, it may not be well suited for heavier roof shingle types, such as slate or clay tiles.
-
-   Want to learn more roofing terminology? We’ll walk you through it in Roofing 101.
-
-\<h5>3. What Are the Weight Limits of Your Structure?\<h5>
-
-The weights of shingle materials vary widely. That’s why it’s important to know how much weight your home’s structure can safely support before making a decision. Buildings are designated a “dead load” tolerance, or the weight of the roof structure. If the dead load is exceeded, the structure will not be able to support its own weight. The average home has a dead load of around 15 pounds per square foot.  
-\<h5>4. How Will Your Local Climate Affect the New Roof?\</h5>
-
-Think about the weather patterns in your area during the material selection process. Extreme winds can tear lighter shingles right off, while heavy snow can add dangerous weight to roofs already weighed down by heavy materials. Also, some roofing materials, such as metal, have sun-reflective or cooling properties that make them useful in hot climates. Slate and clay also stand up very well to heat and fire, and are used in some coastal areas for their resistance to high winds.
-
-\<h5>5. How Will You Choose a Roof Color?\</h5>
-
-No one wants their roof to clash with the rest of their house. When choosing shingles, take a look at the colors available for each material. Standard asphalt shingles and slate tiles tend to come in earthy and neutral blacks and grays, but metal can be painted in a wide variety of shades. As a general guideline, darker, more neutral shingles pair well with white and off-white siding, as well as red brick. It may also be worth considering a new paint job for your home to match the new roof.
-
-\<h4>Asphalt/Architectural Shingles\</h4>
-
-One of the most popular roofing materials in the country, asphalt shingles are easy to install, versatile and budget-friendly. They come in several shapes and sizes, including the basic 3-tab shingle, which can be seen on the roofs of homes around the country and often the most affordable shingles available. Similar to the basic 3-tab shingles are the slightly more expensive architectural shingles and designer asphalt shingles, which can be crafted into a variety of different shapes and styles, from octagonal panels to overlapping square patterns.
-
-   Average cost: $350 to $500 per square\*  
-   Average lifespan: 20 years
-
-\>“Asphalt shingles possess an overwhelming share of the U.S. steep-slope roofing market and can be reinforced with organic or fiberglass materials. Although asphalt shingles reinforced with organic felts have been around much longer, fiberglass-reinforced products now dominate the market.”
 
 \<!--------------------------------------------------------------------->  
 \<!----------------------- expert-tips  -------------------------------->  
