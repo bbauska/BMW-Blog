@@ -1,20 +1,20 @@
 https://github.com/bbauska/bmw.git  
 \- \[BMW Front End Suspension\](#bmw-suspension)  
- \* \[How to Replace Front Suspension (video)\](#bmw-front-suspension)  
- \* \[Roofing Basics\](#roofing-basics)  
- \* \[Expert Tips\](#expert-tips)  
- \* \[Asphalt Shingles\](#ashalt-shingles)  
- \* \[Roofing Components\](#materials)  
- \* \[Consumer Reports - How to Shop for Roofing Shingles\](#consumer-reports)  
-   + \[Roofing Shingles\](#cr-roofing-shingles)  
-   + \[Shingle Types\](#shingle-types)  
-   + \[Roofing - Where to Start\](#cr-roofing-start)  
- \* \[How to Lay Shingles\](#how-to-lay-shingles)
+\- \[How to Replace Front Suspension (video)\](#bmw-front-suspension)  
+\- \[Cooling System\](#bmw-cooling-system)  
+\- \[Brakes\](#bmw-brakes)
+
+*   \[Sun/Moon Roof Remove & Repair\](#bmw-sunroof)  
+     \* \[Consumer Reports - How to Shop for Roofing Shingles\](#consumer-reports)  
+       + \[Roofing Shingles\](#cr-roofing-shingles)  
+       + \[Shingle Types\](#shingle-types)  
+       + \[Roofing - Where to Start\](#cr-roofing-start)  
+     \* \[How to Lay Shingles\](#how-to-lay-shingles)
 
 \<hr size="8" width="90%" color="blue">
 
 \<!--------------------------------------------------------------------->  
-\<!-------------------ready-to-build-a-roof ---------------------------->  
+\<!-------------------- front suspension  ------------------------------>  
 \<!--------------------------------------------------------------------->
 
 \<h2 id="bmw-suspension">BMW Susension\</h2>  
@@ -94,7 +94,6 @@ Sharp video on replacing front suspension on 2004 BMW 325i E46.
 
 [https://youtu.be/ytN-tYiS9HE](https://youtu.be/ytN-tYiS9HE)
 
-  
 \<!--------------------------------------------------------------------->  
 \<!-------------------- asphalt-shingles ------------------------------->  
 \<!--------------------------------------------------------------------->  
