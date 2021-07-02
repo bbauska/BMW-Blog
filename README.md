@@ -1,3 +1,7 @@
+# BMW 325i E46 M54 ET37 made in south africa 2/2004
+
+## Table of Contents
+
 https://github.com/bbauska/bmw.git  
 \- \[BMW Front End Suspension\](#bmw-suspension)  
 \- \[How to Replace Front Suspension (video)\](#bmw-front-suspension)  
@@ -26,10 +30,14 @@ https://github.com/bbauska/bmw.git
 \<!--------------------------- suspension ----------------------------->  
 \<!--------------------------------------------------------------------->
 
-\[BMW Suspension\](#bmw-suspension)
+front axle support / wishbone
+
+![](https://user-images.githubusercontent.com/41387907/124319239-c846e500-db2e-11eb-8e54-5f86889aecfc.png)
 
 Parts is parts  
 Control arms and bushings, ball joints, tie rods, and stabilizer end links for a more complete front suspension rebuild
+
+![](https://user-images.githubusercontent.com/41387907/124319370-f75d5680-db2e-11eb-813e-9933a6433bab.png)
 
 \<!--------------------------------------------------------------------->  
 \<!-------------------- expansion tank / radiator ---------------------->  
