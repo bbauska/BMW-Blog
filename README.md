@@ -12,6 +12,10 @@ https://github.com/bbauska/bmw.git
 
 \[BMW Suspension\](#bmw-suspension)
 
+![](https://user-images.githubusercontent.com/41387907/124314686-a138e500-db27-11eb-8485-1389e7ab3fcb.png)
+
+2004 BMW 325i E46 M54 ET37 Made in South Africa.
+
 Parts is parts  
 Control arms and bushings, ball joints, tie rods, and stabilizer end links for a more complete front suspension rebuild
 
