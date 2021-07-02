@@ -49,6 +49,12 @@ Expansion Tank / Radiator
 \<!------------------------ sun/moon roof ---------------------------->  
 \<!--------------------------------------------------------------------->
 
+Sliding roof
+
+![](https://user-images.githubusercontent.com/41387907/124317887-bbc18d00-db2c-11eb-81c9-a7d693596657.png)
+
+![](https://user-images.githubusercontent.com/41387907/124318064-f3303980-db2c-11eb-90f7-9e5c1c434895.png)
+
 Cooling System Water Hoses
 
 ![](https://user-images.githubusercontent.com/41387907/124315975-b282f100-db29-11eb-9fab-d5161ac396da.png)
