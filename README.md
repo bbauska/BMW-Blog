@@ -16,20 +16,34 @@ Parts is parts
 Control arms and bushings, ball joints, tie rods, and stabilizer end links for a more complete front suspension rebuild
 
 \<!--------------------------------------------------------------------->  
-\<!------------------------- sun / moon roof -------------------------->  
+\<!--------------------- front body bracket right ---------------------->  
+\<!--------------------------------------------------------------------->
+
+![](https://user-images.githubusercontent.com/41387907/124312931-0212ee00-db25-11eb-8e58-fbaefac64ef5.png)
+
+  
 \<!--------------------------------------------------------------------->  
+\<!------------------------ sun/moon roof ---------------------------->  
+\<!--------------------------------------------------------------------->
+
 \[BMW Sunroof - Guide to Removal and Repair\](#bmw-sunroof)  
 
 \<!--------------------------------------------------------------------->  
-\<!----------------------- expert-tips  -------------------------------->  
+\<!-------------------------- expert-tips  ------------------------------>  
 \<!--------------------------------------------------------------------->
 
 \<h4="bmw-front-suspension">BMW Suspension Replace\</h4>  
-https://youtu.be/ytN-tYiS9HE
+[https://youtu.be/ytN-tYiS9HE](https://youtu.be/ytN-tYiS9HE)
+
+\<!------------------------- front side panel --------------------------->
+
+![](https://user-images.githubusercontent.com/41387907/124312797-c37d3380-db24-11eb-8781-9365bdede088.png)
 
 \<!--------------------------------------------------------------------->  
-\<!-------------------- asphalt-shingles ------------------------------->  
+\<!-------------------- front wheelhouse ------------------------------>  
 \<!--------------------------------------------------------------------->
+
+![](https://user-images.githubusercontent.com/41387907/124312594-68e3d780-db24-11eb-9cbb-dae8e882f8fa.png)
 
 \# E46TouringService \[Bentley Manual\](https://app.box.com/s/rfd9u8r40hus4gh7f26ajpfp4p4nu8jn) 
 
