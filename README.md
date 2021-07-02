@@ -4,26 +4,54 @@ https://github.com/bbauska/bmw.git
 \- \[Cooling System\](#bmw-cooling-system)  
 \- \[Brakes\](#bmw-brakes)
 
+![](https://user-images.githubusercontent.com/41387907/124314686-a138e500-db27-11eb-8485-1389e7ab3fcb.png)
+
+2004 BMW 325i E46 M54 ET37 Made in South Africa.
+
+\<!--------------------------------------------------------------------->  
+\<!-------------------- tools, parts, and materials ---------------------->  
+\<!--------------------------------------------------------------------->
+
 \[Parts & Tools\](#materials)
+
+\<!--------------------------------------------------------------------->  
+\<!-------------------- bmw bla bla bla ---------------------->  
+\<!--------------------------------------------------------------------->
 
 \[Sun/Moon Roof Remove & Repair\](#bmw-sunroof)  
  \* \[Shade Clip Remove & Repair\](#bmw-sunroof-shade-clip)  
    + \[More Sun/Moon Roof\](#bmw-sunroof-etc)  
 
+\<!--------------------------------------------------------------------->  
+\<!--------------------------- suspension ----------------------------->  
+\<!--------------------------------------------------------------------->
+
 \[BMW Suspension\](#bmw-suspension)
-
-![](https://user-images.githubusercontent.com/41387907/124314686-a138e500-db27-11eb-8485-1389e7ab3fcb.png)
-
-2004 BMW 325i E46 M54 ET37 Made in South Africa.
 
 Parts is parts  
 Control arms and bushings, ball joints, tie rods, and stabilizer end links for a more complete front suspension rebuild
 
 \<!--------------------------------------------------------------------->  
-\<!--------------------- front body bracket right ---------------------->  
+\<!-------------------- expansion tank / radiator ---------------------->  
+\<!--------------------------------------------------------------------->
+
+Expansion Tank / Radiator
+
+![](https://user-images.githubusercontent.com/41387907/124315741-43a59800-db29-11eb-833b-f4eb9f1500cc.png)
+
+\<!--------------------------------------------------------------------->  
+\<!------------------------ front body bracket ------------------------->  
 \<!--------------------------------------------------------------------->
 
 ![](https://user-images.githubusercontent.com/41387907/124312931-0212ee00-db25-11eb-8e58-fbaefac64ef5.png)
+
+\<!--------------------------------------------------------------------->  
+\<!------------------------ sun/moon roof ---------------------------->  
+\<!--------------------------------------------------------------------->
+
+Cooling System Water Hoses
+
+![](https://user-images.githubusercontent.com/41387907/124315975-b282f100-db29-11eb-9fab-d5161ac396da.png)
 
 \<!--------------------------------------------------------------------->  
 \<!------------------------ sun/moon roof ---------------------------->  
