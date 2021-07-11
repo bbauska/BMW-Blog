@@ -1,43 +1,60 @@
-# BMW 325i E46 M54 ET37 made in south africa 2/2004
+BMW 325i E46 M54 ET37 made in south africa 2/2004  
+\<!--     1         2         3         4         5         6         -->  
+\<!-- 678901234567890123456789012345678901234567890123456789012345678 -->  
+\<!--------------------------------------------------------------------->  
+\<!----------------- BMW Table of Contents on GitHub ------------------->  
+\<!--------------------------------------------------------------------->
 
-## Table of Contents
+\## Table of Contents
 
 https://github.com/bbauska/bmw.git  
+\- \[BMW Components (anatomy)\](#bmw-anatomy)  
+\- \[Parts & Tools Needed\](#bmw-parts)  
+\- \[BMW Engine\](#bmw-engine)  
+\- \[Mechanical\](#bmw-engine-mech)  
+\- \[Electrical\](#bmw-engine=elec)  
+\- \[CCV\](#bmw-ccv)  
+\- \[Fuel System\](#bmw-fuel-supply)  
+\- \[Cooling System\](#bmw-cooling)  
 \- \[BMW Front End Suspension\](#bmw-suspension)  
 \- \[How to Replace Front Suspension (video)\](#bmw-front-suspension)  
-\- \[Cooling System\](#bmw-cooling-system)  
-\- \[Brakes\](#bmw-brakes)
+\- \[Brakes\](#bmw-brakes)  
+\- \[Sun/Moon Roof {remove & repair}\](#bmw-sunroof)  
+\- \[Replacing Fluids {Tran/Axle/Engine/Steering/Cooling System}\](#bmw-fluids)  
+\- \[Expert Tips, Tricks, & Techniques\](#bmw-expert)  
+\- \[Wheelhouse\](#wheelhouse)  
+\- \[DISA Valve\](#disa)
 
-![](https://user-images.githubusercontent.com/41387907/124314686-a138e500-db27-11eb-8485-1389e7ab3fcb.png)
+\<!--     1         2         3         4         5         6         -->  
+\<!-- 678901234567890123456789012345678901234567890123456789012345678 -->  
+\<!--------------------------------------------------------------------->  
+\<!----------------- BMW Table of Contents on GitHub ------------------->  
+\<!--------------------------------------------------------------------->
 
 2004 BMW 325i E46 M54 ET37 Made in South Africa.
 
 \<!--------------------------------------------------------------------->  
-\<!-------------------- tools, parts, and materials ---------------------->  
+\<!-------------------- tools, parts, and materials -------------------->  
 \<!--------------------------------------------------------------------->
 
 \[Parts & Tools\](#materials)
 
 \<!--------------------------------------------------------------------->  
-\<!-------------------- bmw bla bla bla ---------------------->  
+\<!--------------------------- bmw-sunroof ----------------------------->  
 \<!--------------------------------------------------------------------->
 
 \[Sun/Moon Roof Remove & Repair\](#bmw-sunroof)  
- \* \[Shade Clip Remove & Repair\](#bmw-sunroof-shade-clip)  
-   + \[More Sun/Moon Roof\](#bmw-sunroof-etc)  
+\* \[Shade Clip Remove & Repair\](#bmw-sunroof-shade-clip)  
+  + \[More Sun/Moon Roof\](#bmw-sunroof-etc)  
 
 \<!--------------------------------------------------------------------->  
-\<!--------------------------- suspension ----------------------------->  
+\<!------------------------- bmw-suspension ---------------------------->  
 \<!--------------------------------------------------------------------->
 
 front axle support / wishbone
 
-![](https://user-images.githubusercontent.com/41387907/124319239-c846e500-db2e-11eb-8e54-5f86889aecfc.png)
-
 Parts is parts  
 Control arms and bushings, ball joints, tie rods, and stabilizer end links for a more complete front suspension rebuild
-
-![](https://user-images.githubusercontent.com/41387907/124319370-f75d5680-db2e-11eb-813e-9933a6433bab.png)
 
 \<!--------------------------------------------------------------------->  
 \<!-------------------- expansion tank / radiator ---------------------->  
@@ -45,44 +62,35 @@ Control arms and bushings, ball joints, tie rods, and stabilizer end links for a
 
 Expansion Tank / Radiator
 
-![](https://user-images.githubusercontent.com/41387907/124315741-43a59800-db29-11eb-833b-f4eb9f1500cc.png)
-
 \<!--------------------------------------------------------------------->  
 \<!------------------------ front body bracket ------------------------->  
 \<!--------------------------------------------------------------------->
-
-![](https://user-images.githubusercontent.com/41387907/124312931-0212ee00-db25-11eb-8e58-fbaefac64ef5.png)
 
 \<!--------------------------------------------------------------------->  
 \<!------------------------ sun/moon roof ---------------------------->  
 \<!--------------------------------------------------------------------->
 
+\<!--------------------------------------------------------------------->  
+\<!------------------------ rear wheelhouse --------------------------->  
+\<!--------------------------------------------------------------------->  
 \[BMW Sunroof - Guide to Removal and Repair\](#bmw-sunroof)  
 
 Sliding roof
 
-![](https://user-images.githubusercontent.com/41387907/124317887-bbc18d00-db2c-11eb-81c9-a7d693596657.png)
-
-![](https://user-images.githubusercontent.com/41387907/124318064-f3303980-db2c-11eb-90f7-9e5c1c434895.png)
-
+\<!--------------------------------------------------------------------->  
+\<!------------------------ rear wheelhouse --------------------------->  
+\<!--------------------------------------------------------------------->  
 Cooling System Water Hoses
-
-![](https://user-images.githubusercontent.com/41387907/124315975-b282f100-db29-11eb-9fab-d5161ac396da.png)
 
 \<!--------------------------------------------------------------------->  
 \<!------------------------ rear wheelhouse --------------------------->  
 \<!--------------------------------------------------------------------->
 
-![](https://user-images.githubusercontent.com/41387907/124314270-f6c0c200-db26-11eb-9424-ebaf711fd73b.png)
-
 \<!--------------------------------------------------------------------->  
 \<!-------------------------- Microfilter ------------------------------->  
 \<!--------------------------------------------------------------------->
 
-![](https://user-images.githubusercontent.com/41387907/124318680-d9dbbd00-db2d-11eb-87e9-3f7218719785.png)
-
-![](https://user-images.githubusercontent.com/41387907/124318751-fd066c80-db2d-11eb-83ff-2985c909a979.png)
-
+  
 \<!--------------------------------------------------------------------->  
 \<!--------------------------   ------------------------------>  
 \<!--------------------------------------------------------------------->
@@ -95,29 +103,24 @@ Cooling System Water Hoses
 \<!--------------------- radio remote control -------------------------->  
 \<!--------------------------------------------------------------------->
 
-![](https://user-images.githubusercontent.com/41387907/124313402-ae54d480-db25-11eb-9a4c-247944eede9a.png)
-
 \<h4="bmw-front-suspension">BMW Suspension Replace\</h4>  
-[https://youtu.be/ytN-tYiS9HE](https://youtu.be/ytN-tYiS9HE)
+https://youtu.be/ytN-tYiS9HE
 
 \<!--------------------------------------------------------------------->  
 \<!---------------------------- master key ----------------------------->  
 \<!--------------------------------------------------------------------->
 
-![](https://user-images.githubusercontent.com/41387907/124313993-8b76f000-db26-11eb-97f5-1bc01db221a9.png)
-
 \<!--------------------------------------------------------------------->  
 \<!------------------------- front side panel --------------------------->  
 \<!--------------------------------------------------------------------->
-
-![](https://user-images.githubusercontent.com/41387907/124312797-c37d3380-db24-11eb-8781-9365bdede088.png)
 
 \<!--------------------------------------------------------------------->  
 \<!-------------------- front wheelhouse ------------------------------>  
 \<!--------------------------------------------------------------------->
 
-![](https://user-images.githubusercontent.com/41387907/124312594-68e3d780-db24-11eb-9cbb-dae8e882f8fa.png)
-
+\<!--------------------------------------------------------------------->  
+\<!------------------------ rear wheelhouse --------------------------->  
+\<!--------------------------------------------------------------------->  
 Service history for 2004 bmw 325i e46 with m54 v6
 
 \<!--------------------------------------------------------------------->  
@@ -135,8 +138,6 @@ Service history for 2004 bmw 325i e46 with m54 v6
 \<!--------------------------------------------------------------------->  
 \<!---------------------- Exterior Trim & Grill -------------------------->  
 \<!--------------------------------------------------------------------->
-
-![](https://user-images.githubusercontent.com/41387907/124318307-4d30ff00-db2d-11eb-8f41-569a1724b782.png)
 
 \<!--------------------------------------------------------------------->  
 \<!--------------------------   ------------------------------>  
