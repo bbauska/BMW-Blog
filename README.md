@@ -51,20 +51,24 @@ https://github.com/bbauska/bmw.git
 \<!------------------------- bmw-suspension ---------------------------->  
 \<!--------------------------------------------------------------------->
 
-front axle support / wishbone
+### front axle support / wishbone
+
 https://raw.githubusercontent.com/bbauska/bmw/main/images/suspension/front-spring-strut-shock-absorber.png
-Parts is parts  
-Control arms and bushings, ball joints, tie rods, and stabilizer end links for a more complete front suspension rebuild
+
+#### Parts is parts  
+#### Control arms and bushings, ball joints, tie rods, and stabilizer end links for a more complete front suspension rebuild
 
 \<!--------------------------------------------------------------------->  
 \<!-------------------- expansion tank / radiator ---------------------->  
 \<!--------------------------------------------------------------------->
 
-Expansion Tank / Radiator
+### Expansion Tank / Radiator
 
 \<!--------------------------------------------------------------------->  
 \<!------------------------ front body bracket ------------------------->  
 \<!--------------------------------------------------------------------->
+
+### Front body bracket
 
 \<!--------------------------------------------------------------------->  
 \<!------------------------ sun/moon roof ---------------------------->  
