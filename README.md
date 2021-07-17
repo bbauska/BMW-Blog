@@ -52,7 +52,7 @@ https://github.com/bbauska/bmw.git
 \<!--------------------------------------------------------------------->
 
 front axle support / wishbone
-
+https://raw.githubusercontent.com/bbauska/bmw/main/images/suspension/front-spring-strut-shock-absorber.png
 Parts is parts  
 Control arms and bushings, ball joints, tie rods, and stabilizer end links for a more complete front suspension rebuild
 
