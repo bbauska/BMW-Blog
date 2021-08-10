@@ -43,8 +43,10 @@ https://github.com/bbauska/bmw.git
 - Communities/forums: [/r/selfhosted](https://www.reddit.com/r/selfhosted), [IndieWeb](https://indieweb.org/)
 - Mirrors: [GitHub.com](https://github.com/awesome-selfhosted/awesome-selfhosted), [Gitlab.com](https://gitlab.com/awesome-selfhosted/awesome-selfhosted)
 
---------------------
 
+<!------------------------------------------------------------------->
+<!------------------------ contributing ----------------------------->
+<!------------------------------------------------------------------->
 ## Contributing
 
 Contributing guidelines can be found in [.github/CONTRIBUTING.md](.github/CONTRIBUTING.md).
@@ -59,70 +61,53 @@ This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LI
 
 **[`^        back to top        ^`](#)**
 
-- [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata) - Curated list of awesome big data frameworks, resources and other awesomeness.
-- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - List of high quality, topic-centric public data sources.
-- [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
-- Lists of software aimed at privacy and decentralization in some form: [PRISM Break](https://prism-break.org/en/), [privacytools.io](https://www.privacytools.io/), [Alternative Internet](https://redecentralize.github.io/alternative-internet/), [Libre Projects](http://libreprojects.net/)
-- Dynamic Domain Name services: [Afraid.org](https://freedns.afraid.org/domain/registry/), [Pagekite](https://pagekite.net/)
-- Communities/forums: [/r/selfhosted](https://www.reddit.com/r/selfhosted), [IndieWeb](https://indieweb.org/)
-- Mirrors: [GitHub.com](https://github.com/awesome-selfhosted/awesome-selfhosted), [Gitlab.com](https://gitlab.com/awesome-selfhosted/awesome-selfhosted)
-
 --------------------
-
-## Contributing
-
-Contributing guidelines can be found in [.github/CONTRIBUTING.md](.github/CONTRIBUTING.md).
-
-## Authors
-
-The list of authors can be found in [AUTHORS.md](AUTHORS.md).
-
-## License
+<!------------------------------------------------------------------->
+<!---------------- BMW Table of Contents on GitHub ------------------>
+<!------------------------------------------------------------------->
 
 This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) License.
   - [xx](###-)
   - [xx](###-)
-  - [xx](###-)
-  - [xx](###-)
-  - [xx](###-)
-  - [xx](###-)
-  - [xx](###-)
-  - [xx](###-)
-  - [xx](###-)
-  - [xx](###-)
-  - [xx](###-)
-  - [xx](###-)
-  - [xx](###-)
-  - [xx](###-)
-  - [xx](###-)
-  - [xx](###-)
-  - [xx](###-)
-  - [xx](###-)
-  - [xx](###-)
+  - [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata) - Curated list of awesome big data frameworks, resources and other awesomeness.
+  - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - List of high quality, topic-centric public data sources.
+  - [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
+  - Lists of software aimed at privacy and decentralization in some form: [PRISM Break](https://prism-break.org/en/), [privacytools.io](https://www.privacytools.io/), [Alternative Internet](https://redecentralize.github.io/alternative-internet/), [Libre Projects](http://libreprojects.net/)
+  - Dynamic Domain Name services: [Afraid.org](https://freedns.afraid.org/domain/registry/), [Pagekite](https://pagekite.net/)
+  - Communities/forums: [/r/selfhosted](https://www.reddit.com/r/selfhosted), [IndieWeb](https://indieweb.org/)
+  - Mirrors: [GitHub.com](https://github.com/awesome-selfhosted/awesome-selfhosted), [Gitlab.com](https://gitlab.com/awesome-selfhosted/awesome-selfhosted)
+
+**[`^        back to top        ^`](#)**
+
+## More work to do or done:
   - [How to Replace Front Suspension (video)](#bmw-front-suspension)
   - [Sun/Moon Roof {remove & repair}](#bmw-sunroof)
   - [Replacing Fluids {Tran/Axle/Engine/Steering/Cooling System}](#bmw-fluids)
-\- \[Expert Tips, Tricks, & Techniques\](#bmw-expert)  
-\- \[Wheelhouse\](#wheelhouse)  
-\- \[DISA Valve\](#disa)
+  - [Expert Tips, Tricks, & Techniques\](#bmw-expert)
+  - [Wheelhouse\](#wheelhouse)
+  - [DISA Valve\](#disa)
+
 **[`^        back to top        ^`](#)**
 
-\<!--------------------------------------------------------------------------------------------->  
-\<!-------------------- BMW Components (anatomy) #bmw-anatomy --------------------->  
-\<!--------------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------------->  
+<!-------------------- BMW Components (anatomy) #bmw-anatomy --------------------->  
+<!--------------------------------------------------------------------------------------------->
 
-\[Parts & Tools\](#materials)
+[Parts & Tools\](#materials)
 
-\<!--------------------------------------------------------------------------------------------->  
-\<!-------------------------- Parts & Tools Needed #bmw-parts ---------------------------->  
-\<!--------------------------------------------------------------------------------------------->
+<!--------------------------------------------------------------------------------------------->  
+<!-------------------------- Parts & Tools Needed #bmw-parts ---------------------------->  
+<!--------------------------------------------------------------------------------------------->
 
-\[Parts & Tools\](#materials)
+[Parts & Tools\](#materials)
 **[`^        back to top        ^`](#)**
-\<!--------------------------------------------------------------------------------------------->  
-\<!--------------------- Sun/Moon Roof R & R #bmw-sunroof ----------------------------->  
-\<!--------------------------------------------------------------------------------------------->
+
+<!--------------------------------------------------------------------------------------------->  
+<!--------------------- Sun/Moon Roof R & R #bmw-sunroof ----------------------------->  
+<!--------------------------------------------------------------------------------------------->
+
 ## Sun/Moon Roof (R & R)
+
 [Sun/Moon Roof Remove & Repair\](#bmw-sunroof)
   + [Shade Clip Remove & Repair\](#bmw-sunroof-shade-clip)
   + [More Sun/Moon Roof\](#bmw-sunroof-etc)
@@ -158,6 +143,7 @@ https://raw.githubusercontent.com/bbauska/bmw/main/images/suspension/front-sprin
 <!--------------------------------------------------------------------->  
 <!------------------------ front body bracket ------------------------->  
 <!--------------------------------------------------------------------->
+
 ### Front body bracket
 
 **[`^        back to top        ^`](#)**
@@ -166,10 +152,10 @@ https://raw.githubusercontent.com/bbauska/bmw/main/images/suspension/front-sprin
 <!------------------------ sun/moon roof ---------------------------->  
 <!--------------------------------------------------------------------->
 
-\<!--------------------------------------------------------------------->  
-\<!------------------------ rear wheelhouse --------------------------->  
-\<!--------------------------------------------------------------------->  
-\[BMW Sunroof - Guide to Removal and Repair\](#bmw-sunroof)  
+<!--------------------------------------------------------------------->  
+<!------------------------ rear wheelhouse --------------------------->  
+<!--------------------------------------------------------------------->  
+[BMW Sunroof - Guide to Removal and Repair\](#bmw-sunroof)  
 
 Sliding roof
 **[`^        back to top        ^`](#)**
@@ -207,6 +193,7 @@ Sliding roof
 <!---------------------------------------------------------------------->  
 <!------------------- suspension remove & replace ---------------------->  
 <!---------------------------------------------------------------------->
+
 ## BMW Suspension Replace
 <h4="bmw-front-suspension">BMW Suspension Replace\</h4>  
 https://youtu.be/ytN-tYiS9HE
