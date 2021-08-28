@@ -11,7 +11,7 @@
 
 \[BMW Table of Contents\\\](#bmw-toc)
 
-https://github.com/bbauska/bmw.git  
+https://github.com/bbauska/bmw-blog.git  
 \- Table of Contents  
  - \[BMW Components {anatomy}\](#bmw-anatomy)  
  - \[Parts & Tools Needed\](#bmw-parts)  
