@@ -1,6 +1,7 @@
-# BMW 325i E46 M54 ET37 ## made in south africa 2/2004
+# BMW 325i E46 M54 ET37
+### made in south africa 2/2004
 
-[\*\*Jump to TOC\*\*\](\<#bmw-toc>)\<br />
+[**Jump to TOC**](<#bmw-toc>)<br />
 
 ### Table of Contents
 
