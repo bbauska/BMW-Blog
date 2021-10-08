@@ -32,131 +32,57 @@ https://github.com/bbauska/bmw-blog.git
 
 **[`^        back to top        ^`](#)**
 
-[Awesome Big Data\](https://github.com/onurakpolat/awesome-bigdata) - Curated list of awesome big data frameworks, resources and other awesomeness.
-[Awesome Public Datasets\](https://github.com/awesomedata/awesome-public-datasets) - List of high quality, topic-centric public data sources.
-[Awesome Sysadmin\](https://github.com/n1trux/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
+## More work to do or done:
+[How to Replace Front Suspension (video)](#bmw-front-suspension)
+[Sun/Moon Roof {remove & repair}](#bmw-sunroof)
+[Replacing Fluids {Tran/Axle/Engine/Steering/Cooling System}](#bmw-fluids)
+[Expert Tips, Tricks, & Techniques](#bmw-expert)
+[Wheelhouse](#wheelhouse)
+[DISA Valve](#disa)
 
-Lists of software aimed at privacy and decentralization in some form: 
-  [PRISM Break](https://prism-break.org/en/), [privacytools.io\](https://www.privacytools.io),
-  [Alternative Internet](https://redecentralize.github.io/alternative-internet),
-  [Libre Projects](http://libreprojects.net)
-  [Dynamic Domain Name services: [Afraid.org](https://freedns.afraid.org/domain/registry),
-  [Pagekite\](https://pagekite.net/)  
-  [Communities/forums: [/r/selfhosted](https://www.reddit.com/r/selfhosted),
-  [IndieWeb](https://indieweb.org)
-\- Mirrors: \[GitHub.com\](https://github.com/awesome-selfhosted/awesome-selfhosted), \[Gitlab.com\](https://gitlab.com/awesome-selfhosted/awesome-selfhosted)
+**[`^        back to top        ^`](#)**
 
-\<!--------------------------------------------------------------------->  
-\<!-------------------------- contributing ----------------------------->  
-\<!--------------------------------------------------------------------->
+[Parts & Tools](#materials)
 
-\## Contributing  
-Contributing guidelines can be found in \[.github/CONTRIBUTING.md\](.github/CONTRIBUTING.md).
+[Parts & Tools](#materials)
+**[`^        back to top        ^`](#)**
 
-\## Authors
+## Sun/Moon Roof (R & R)
 
-The list of authors can be found in \[AUTHORS.md\](AUTHORS.md).
+[Sun/Moon Roof Remove & Repair](#bmw-sunroof)
++ [Shade Clip Remove & Repair](#bmw-sunroof-shade-clip)
++ [More Sun/Moon Roof](#bmw-sunroof-etc)
 
-\## License
+**[`^        back to top        ^`](#)**
 
-This list is under the \[Creative Commons Attribution-ShareAlike 3.0 Unported\](LICENSE) License.## External links
-
-\*\*\[\`^        back to top        ^\`\](#)\*\*
-
-\<!--------------------------------------------------------------------->  
-\<!------------------ BMW Table of Contents on GitHub ------------------>  
-\<!--------------------------------------------------------------------->
-
-This list is under the \[Creative Commons Attribution-ShareAlike 3.0 Unported\](LICENSE) License.  
- - \[xx\](###-)  
- - \[xx\](###-)  
- - \[Awesome Big Data\](https://github.com/onurakpolat/awesome-bigdata) - Curated list of awesome big data frameworks, resources and other awesomeness.  
- - \[Awesome Public Datasets\](https://github.com/awesomedata/awesome-public-datasets) - List of high quality, topic-centric public data sources.  
- - \[Awesome Sysadmin\](https://github.com/n1trux/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.  
- - Lists of software aimed at privacy and decentralization in some form: \[PRISM Break\](https://prism-break.org/en/), \[privacytools.io\](https://www.privacytools.io/), \[Alternative Internet\](https://redecentralize.github.io/alternative-internet/), \[Libre Projects\](http://libreprojects.net/)  
- - Dynamic Domain Name services: \[Afraid.org\](https://freedns.afraid.org/domain/registry/), \[Pagekite\](https://pagekite.net/)  
- - Communities/forums: \[/r/selfhosted\](https://www.reddit.com/r/selfhosted), \[IndieWeb\](https://indieweb.org/)  
- - Mirrors: \[GitHub.com\](https://github.com/awesome-selfhosted/awesome-selfhosted), \[Gitlab.com\](https://gitlab.com/awesome-selfhosted/awesome-selfhosted)
-
-\*\*\[\`^        back to top        ^\`\](#)\*\*
-
-\## More work to do or done:  
- - \[How to Replace Front Suspension (video)\](#bmw-front-suspension)  
- - \[Sun/Moon Roof {remove & repair}\](#bmw-sunroof)  
- - \[Replacing Fluids {Tran/Axle/Engine/Steering/Cooling System}\](#bmw-fluids)  
- - \[Expert Tips, Tricks, & Techniques\\\](#bmw-expert)  
- - \[Wheelhouse\\\](#wheelhouse)  
- - \[DISA Valve\\\](#disa)
-
-\*\*\[\`^        back to top        ^\`\](#)\*\*
-
-\<!--------------------------------------------------------------------->    
-\<!------------- BMW Components (anatomy) #bmw-anatomy ----------------->    
-\<!--------------------------------------------------------------------->
-
-\[Parts & Tools\\\](#materials)
-
-\<!--------------------------------------------------------------------->  
-\<!---------------------- Parts & Tools Needed #bmw-parts -------------->    
-\<!--------------------------------------------------------------------->
-
-\[Parts & Tools\\\](#materials)  
-\*\*\[\`^        back to top        ^\`\](#)\*\*
-
-\<!--------------------------------------------------------------------->  
-\<!------------------- Sun/Moon Roof R & R #bmw-sunroof ---------------->  
-\<!--------------------------------------------------------------------->
-
-\## Sun/Moon Roof (R & R)
-
-\[Sun/Moon Roof Remove & Repair\\\](#bmw-sunroof)  
- + \[Shade Clip Remove & Repair\\\](#bmw-sunroof-shade-clip)  
- + \[More Sun/Moon Roof\\\](#bmw-sunroof-etc)
-
-\*\*\[\`^        back to top        ^\`\](#)\*\*
-
-\<!--------------------------------------------------------------------->    
-\<!------------------------- bmw-suspension ---------------------------->    
-\<!--------------------------------------------------------------------->  
-\### Front Axle Support / Wishbone
+### Front Axle Support / Wishbone
 
 https://raw.githubusercontent.com/bbauska/bmw/main/images/suspension/front-spring-strut-shock-absorber.png
 
-\*\*\[\`^        back to top        ^\`\](#)\*\*
+**[`^        back to top        ^`](#)**
 
-\#### Parts is parts
+#### Parts is parts
 
-\*\*\[\`^        back to top        ^\`\](#)\*\*
+**[`^        back to top        ^`](#)**
 
-\#### Control arms and bushings, ball joints, tie rods, and stabilizer end links for a more complete front suspension rebuild
+#### Control arms and bushings, ball joints, tie rods, and stabilizer end links for a more complete front suspension rebuild
 
-\*\*\[\`^        back to top        ^\`\](#)\*\*
+**[`^        back to top        ^`](#)**
 
-\<!--------------------------------------------------------------------->    
-\<!-------------------- expansion tank / radiator ---------------------->    
-\<!--------------------------------------------------------------------->  
-\### Expansion Tank / Radiator
+### Expansion Tank / Radiator
+https://github.com/bbauska/BMW-Blog/blob/main/images/17-radiator/05-radiator/17.05%20Expansion%20Tank%20-%20Standard%20Transmission.png?raw=true
 
-\*\*\[\`^        back to top        ^\`\](#)\*\*
+**[`^        back to top        ^`](#)**
 
-\<!--------------------------------------------------------------------->    
-\<!------------------------ front body bracket ------------------------->    
-\<!--------------------------------------------------------------------->  
-\### Front body bracket
+### Front body bracket
 
-\*\*\[\`^        back to top        ^\`\](#)\*\*
+**[`^        back to top        ^`](#)**
 
-\<!--------------------------------------------------------------------->    
-\<!-------------------------- sun/moon roof ---------------------------->    
-\<!--------------------------------------------------------------------->
-
-\<!--------------------------------------------------------------------->    
-\<!------------------------- rear wheelhouse --------------------------->    
-\<!--------------------------------------------------------------------->    
-\[BMW Sunroof - Guide to Removal and Repair\\\](#bmw-sunroof)  
+[BMW Sunroof - Guide to Removal and Repair](#bmw-sunroof)
 
 Sliding roof  
-\*\*\[\`^        back to top        ^\`\](#)\*\*  
+**[`^        back to top        ^`](#)**
+
 \<!--------------------------------------------------------------------->    
 \<!------------------- cooling system water hoses ---------------------->    
 \<!--------------------------------------------------------------------->  
