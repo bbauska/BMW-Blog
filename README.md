@@ -1,19 +1,14 @@
-\# BMW 325i E46 M54 ET37 made in south africa 2/2004  
-\[\*\*Jump to TOC\*\*\](\<#bmw-toc>)\<br />
+# BMW 325i E46 M54 ET37 ## made in south africa 2/2004
 
-\<!--      1         2         3         4         5         6       --->  
-\<!--- 6789012345678901234567890123456789012345678901234567890123456 --->  
-\<!--------------------------------------------------------------------->  
-\<!------------------ BMW Table of Contents on GitHub ------------------>  
-\<!--------------------------------------------------------------------->
+[\*\*Jump to TOC\*\*\](\<#bmw-toc>)\<br />
 
-\## Table of Contents
+### Table of Contents
 
-\[BMW Table of Contents\\\](#bmw-toc)
+[BMW Table of Contents](#bmw-toc)
 
 https://github.com/bbauska/bmw-blog.git  
-\- Table of Contents  
- - \[BMW Components {anatomy}\](#bmw-anatomy)  
+- Table of Contents  
+- [BMW Components {anatomy}](#bmw-anatomy)
  - \[Parts & Tools Needed\](#bmw-parts)  
  - \[BMW Engine\](#11-engine)  
  - \[Engine Electrical\](#12-engine-elec)  
