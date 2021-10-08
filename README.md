@@ -3,37 +3,34 @@
 
 [**Jump to TOC**](<#bmw-toc>)<br />
 
-### Table of Contents
-
-[BMW Table of Contents](#bmw-toc)
-
 https://github.com/bbauska/bmw-blog.git  
-- Table of Contents  
-- [BMW Components {anatomy}](#bmw-anatomy)
- - \[Parts & Tools Needed\](#bmw-parts)  
- - \[BMW Engine\](#11-engine)  
- - \[Engine Electrical\](#12-engine-elec)  
- - \[CCV\](#bmw-ccv)  
- - \[Fuel Preparation System\](#13-fuel-preparation)  
- - \[Fuel System\](#16-fuel-supply)  
- - \[Radiator\](#17-radiator)  
- - \[Exhaust System\](#18-exhaust)  
- - \[Clutch\](#21-clutch)  
- - \[Engine & Transmission Suspension\](#22-eng-tran-suspension)  
- - \[Manual Transmission\](#23-manual-transmission)  
- - \[Automatic Transmission\](#24-automatic-transmission)  
- - \[Gearshift\](#25-gearshift)  
- - \[Drive Shaft\](#26-drive-shaft)  
- - \[Front Axle\](#31-front-axle)  
- - \[Steering\](#32-steering)  
- - \[Rear Axle\](#33-rear-axle)  
- - \[Brakes\](#34-brakes)  
- - \[Pedals\](#35-pedals)  
- - \[Wheels\](#36-wheels)
 
-\## External links
+## [Table of Contents](#bmw-toc)
+1. [BMW Components {anatomy}](#bmw-anatomy)
+2. [Parts & Tools Needed](#bmw-parts)
+3. [BMW Engine](#11-engine)
+4. [Engine Electrical](#12-engine-elec)
+5. [CCV](#bmw-ccv)
+6. [Fuel Preparation System](#13-fuel-preparation)
+7. [Fuel System](#16-fuel-supply)
+8. [Radiator](#17-radiator)
+9. [Exhaust System](#18-exhaust)
+10. [Clutch](#21-clutch)
+11. [Engine & Transmission Suspension](#22-eng-tran-suspension)
+12. [Manual Transmission](#23-manual-transmission)
+13. [Automatic Transmission](#24-automatic-transmission)
+14. [Gearshift](#25-gearshift)
+15. [Drive Shaft](#26-drive-shaft)
+16. [Front Axle](#31-front-axle)
+17. [Steering](#32-steering)
+18. [Rear Axle](#33-rear-axle)
+19. [Brakes](#34-brakes)
+20. [Pedals](#35-pedals)
+21. [Wheels](#36-wheels)
 
-\*\*\[\`^        back to top        ^\`\](#)\*\*
+## External links
+
+**[`^        back to top        ^`](#)**
 
 \- \[Awesome Big Data\](https://github.com/onurakpolat/awesome-bigdata) - Curated list of awesome big data frameworks, resources and other awesomeness.  
 \- \[Awesome Public Datasets\](https://github.com/awesomedata/awesome-public-datasets) - List of high quality, topic-centric public data sources.  
