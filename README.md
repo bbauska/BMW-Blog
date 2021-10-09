@@ -1,87 +1,95 @@
 # BMW 325i E46 M54 ET37
+
 ### made in south africa 2/2004
 
-[**Jump to TOC**](<#bmw-toc>)<br />
+---
 
-https://github.com/bbauska/bmw-blog.git  
+[**Jump to TOC**](#bmw-toc)  
+ 
+
+https://github.com/bbauska/bmw-blog.git
 
 ## [Table of Contents](#bmw-toc)
-1. [BMW Components {anatomy}](#bmw-anatomy)
-2. [Parts & Tools Needed](#bmw-parts)
-3. [BMW Engine](#11-engine)
-4. [Engine Electrical](#12-engine-elec)
-5. [CCV](#bmw-ccv)
-6. [Fuel Preparation System](#13-fuel-preparation)
-7. [Fuel System](#16-fuel-supply)
-8. [Radiator](#17-radiator)
-9. [Exhaust System](#18-exhaust)
-10. [Clutch](#21-clutch)
-11. [Engine & Transmission Suspension](#22-eng-tran-suspension)
-12. [Manual Transmission](#23-manual-transmission)
-13. [Automatic Transmission](#24-automatic-transmission)
-14. [Gearshift](#25-gearshift)
-15. [Drive Shaft](#26-drive-shaft)
-16. [Front Axle](#31-front-axle)
-17. [Steering](#32-steering)
-18. [Rear Axle](#33-rear-axle)
-19. [Brakes](#34-brakes)
-20. [Pedals](#35-pedals)
-21. [Wheels](#36-wheels)
+
+1.  [BMW Components {anatomy}](#bmw-anatomy)
+2.  [Parts & Tools Needed](#bmw-parts)
+3.  [BMW Engine](#11-engine)
+4.  [Engine Electrical](#12-engine-elec)
+5.  [CCV](#bmw-ccv)
+6.  [Fuel Preparation System](#13-fuel-preparation)
+7.  [Fuel System](#16-fuel-supply)
+8.  [Radiator](#17-radiator)
+9.  [Exhaust System](#18-exhaust)
+10.  [Clutch](#21-clutch)
+11.  [Engine & Transmission Suspension](#22-eng-tran-suspension)
+12.  [Manual Transmission](#23-manual-transmission)
+13.  [Automatic Transmission](#24-automatic-transmission)
+14.  [Gearshift](#25-gearshift)
+15.  [Drive Shaft](#26-drive-shaft)
+16.  [Front Axle](#31-front-axle)
+17.  [Steering](#32-steering)
+18.  [Rear Axle](#33-rear-axle)
+19.  [Brakes](#34-brakes)
+20.  [Pedals](#35-pedals)
+21.  [Wheels](#36-wheels)
 
 ## External links
 
-**[`^        back to top        ^`](#)**
+[**`^        back to top        ^`**](#)
 
 ## More work to do or done:
-[How to Replace Front Suspension (video)](#bmw-front-suspension)
-[Sun/Moon Roof {remove & repair}](#bmw-sunroof)
-[Replacing Fluids {Tran/Axle/Engine/Steering/Cooling System}](#bmw-fluids)
-[Expert Tips, Tricks, & Techniques](#bmw-expert)
-[Wheelhouse](#wheelhouse)
+
+[How to Replace Front Suspension (video)](#bmw-front-suspension)  
+[Sun/Moon Roof {remove & repair}](#bmw-sunroof)  
+[Replacing Fluids {Tran/Axle/Engine/Steering/Cooling System}](#bmw-fluids)  
+[Expert Tips, Tricks, & Techniques](#bmw-expert)  
+[Wheelhouse](#wheelhouse)  
 [DISA Valve](#disa)
 
-**[`^        back to top        ^`](#)**
+[**`^        back to top        ^`**](#)
 
 [Parts & Tools](#materials)
 
-[Parts & Tools](#materials)
-**[`^        back to top        ^`](#)**
+[Parts & Tools](#materials)  
+[**`^        back to top        ^`**](#)
 
 ## Sun/Moon Roof (R & R)
 
 [Sun/Moon Roof Remove & Repair](#bmw-sunroof)
-+ [Shade Clip Remove & Repair](#bmw-sunroof-shade-clip)
-+ [More Sun/Moon Roof](#bmw-sunroof-etc)
 
-**[`^        back to top        ^`](#)**
+*   [Shade Clip Remove & Repair](#bmw-sunroof-shade-clip)
+*   [More Sun/Moon Roof](#bmw-sunroof-etc)
+
+[**`^        back to top        ^`**](#)
 
 ### Front Axle Support / Wishbone
 
 https://raw.githubusercontent.com/bbauska/bmw/main/images/suspension/front-spring-strut-shock-absorber.png
 
-**[`^        back to top        ^`](#)**
+[**`^        back to top        ^`**](#)
 
 #### Parts is parts
 
-**[`^        back to top        ^`](#)**
+[**`^        back to top        ^`**](#)
 
 #### Control arms and bushings, ball joints, tie rods, and stabilizer end links for a more complete front suspension rebuild
 
-**[`^        back to top        ^`](#)**
+[**`^        back to top        ^`**](#)
 
 ### Expansion Tank / Radiator
+
 https://github.com/bbauska/BMW-Blog/blob/main/images/17-radiator/05-radiator/17.05%20Expansion%20Tank%20-%20Standard%20Transmission.png?raw=true
 
-**[`^        back to top        ^`](#)**
+[**`^        back to top        ^`**](#)
 
 ### Front body bracket
 
-**[`^        back to top        ^`](#)**
+[**`^        back to top        ^`**](#)
 
 [BMW Sunroof - Guide to Removal and Repair](#bmw-sunroof)
 
 Sliding roof  
-**[`^        back to top        ^`](#)**
+\*\*[`^        back to top        ^`](#)\*\*
 
 \<!--------------------------------------------------------------------->    
 \<!------------------- cooling system water hoses ---------------------->    
