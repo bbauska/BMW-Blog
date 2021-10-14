@@ -8,6 +8,8 @@
 
 https://github.com/bbauska/bmw-blog.git
 
+<a name="bmw-toc">Table of Contents
+
 ## [Table of Contents](#bmw-toc)
 
 1.  [BMW Components {anatomy}](#bmw-anatomy)
@@ -37,14 +39,16 @@ https://github.com/bbauska/bmw-blog.git
 [**`^        back to top        ^`**](#)
 
 ## More work to do or done:
+
 ## Bmw Anatomy
 
-<h4="bmw-anatomy">BMW Anatomy</h4>
+<a name="bmw-anatomy">BMW Anatomy
 
 https://github.com/bbauska/BMW-Blog/blob/main/images/00%20anatomy.png?raw=true
 
 [How to Replace Front Suspension (video)](#bmw-front-suspension)  
-[Sun/Moon Roof {remove & repair}](#bmw-sunroof)  
+[Sun/Moon Roof {remove & repair}](#bmw-sunroof)
+
 *   [Shade Clip Remove & Repair](#bmw-sunroof-shade-clip)
 *   [More Sun/Moon Roof](#bmw-sunroof-etc)
 
@@ -61,10 +65,11 @@ https://github.com/bbauska/BMW-Blog/blob/main/images/00%20anatomy.png?raw=true
 [**`^        back to top        ^`**](#)
 
 ## Sun/Moon Roof (R & R)
-<h4="bmw-sunroof">Sun/Moon Roof Remove & Repair</h4>
 
-<h5="bmw-sunroof-shade-clip">Shade Clip Remove & Repair</h5>
-<h5="bmw-sunroof-etc">More Sun/Moon Roof</h5>
+\<h4="bmw-sunroof">Sun/Moon Roof Remove & Repair
+
+\<h5="bmw-sunroof-shade-clip">Shade Clip Remove & Repair  
+\<h5="bmw-sunroof-etc">More Sun/Moon Roof
 
 [**`^        back to top        ^`**](#)
 
@@ -135,7 +140,7 @@ Sliding roof
 \<!--------------------------------------------------------------------->  
 \## BMW Suspension Replace
 
-<h4="bmw-front-suspension">BMW Suspension Replace</h4>
+\<h4="bmw-front-suspension">BMW Suspension Replace
 
 https://youtu.be/ytN-tYiS9HE
 
