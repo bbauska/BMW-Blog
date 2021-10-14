@@ -38,11 +38,9 @@ https://github.com/bbauska/bmw-blog.git
 
 ## More work to do or done:
 
-## Bmw Anatomy
+<h2><a name="bmw-anatomy">BMW Anatomy</h2>
 
-<a name="bmw-anatomy">BMW Anatomy
-
-https://github.com/bbauska/BMW-Blog/blob/main/images/00%20anatomy.png?raw=true
+![image](https://github.com/bbauska/BMW-Blog/blob/main/images/00%20anatomy.png?raw=true)
 
 [How to Replace Front Suspension (video)](#bmw-front-suspension)  
 [Sun/Moon Roof {remove & repair}](#bmw-sunroof)
