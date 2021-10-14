@@ -57,15 +57,15 @@ https://github.com/bbauska/bmw-blog.git
 
 [Parts & Tools](#materials)
 
-[Parts & Tools](#materials)  
+[Parts & Tools](#bmw-parts)
 [**`^        back to top        ^`**](#)
 
 ## Sun/Moon Roof (R & R)
 
-\<h4="bmw-sunroof">Sun/Moon Roof Remove & Repair
+<h2><a name="bmw-sunroof">Sun/Moon Roof Remove & Repair</h2>
 
-\<h5="bmw-sunroof-shade-clip">Shade Clip Remove & Repair  
-\<h5="bmw-sunroof-etc">More Sun/Moon Roof
+<h2><a name="bmw-sunroof-shade-clip">Shade Clip Remove & Repair</h2>
+<h2><a name="bmw-sunroof-etc">More Sun/Moon Roof</h2>
 
 [**`^        back to top        ^`**](#)
 
