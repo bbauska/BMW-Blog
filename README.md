@@ -8,9 +8,7 @@
 
 https://github.com/bbauska/bmw-blog.git
 
-<a name="bmw-toc">Table of Contents
-
-## [Table of Contents](#bmw-toc)
+<h2><a name="bmw-toc">Table of Contents</h2>
 
 1.  [BMW Components {anatomy}](#bmw-anatomy)
 2.  [Parts & Tools Needed](#bmw-parts)
