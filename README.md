@@ -79,9 +79,8 @@ https://github.com/bbauska/bmw-blog.git
 [**`^        back to top        ^`**](#)
 
 ### Front Axle Support / Wishbone
-<h2><a name="bmw-suspension">Front Suspension</h2>
-
-https://raw.githubusercontent.com/bbauska/bmw/main/images/suspension/front-spring-strut-shock-absorber.png
+<h2><a name="31-front-axle">Front Axle/Suspension</h2>
+![image](https://github.com/bbauska/BMW-Blog/blob/main/images/31-front-axle/31.05%20Suspension%20Wishbone.png?raw=true)
 
 [**`^        back to top        ^`**](#)
 
