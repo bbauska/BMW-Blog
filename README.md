@@ -42,18 +42,17 @@ https://github.com/bbauska/bmw-blog.git
 
 ![image](https://github.com/bbauska/BMW-Blog/blob/main/images/00%20anatomy.png?raw=true)
 
-  
 [**`^        back to top        ^`**](#)
-  
-[How to Replace Front Suspension (video)](#bmw-front-suspension)  
+
+[How to Replace Front Suspension (video)](#bmw-front-suspension)
 [Sun/Moon Roof {remove & repair}](#bmw-sunroof)
 
 *   [Shade Clip Remove & Repair](#bmw-sunroof-shade-clip)
 *   [More Sun/Moon Roof](#bmw-sunroof-etc)
 
-[Replacing Fluids {Tran/Axle/Engine/Steering/Cooling System}](#bmw-fluids)  
-[Expert Tips, Tricks, & Techniques](#bmw-expert)  
-[Wheelhouse](#wheelhouse)  
+[Replacing Fluids {Tran/Axle/Engine/Steering/Cooling System}](#bmw-fluids)
+[Expert Tips, Tricks, & Techniques](#bmw-expert)
+[Wheelhouse](#wheelhouse)
 [DISA Valve](#disa)
 
 [**`^        back to top        ^`**](#)
@@ -64,7 +63,7 @@ https://github.com/bbauska/bmw-blog.git
 [**`^        back to top        ^`**](#)
 
 ## BMW Engine
-  <h2><a name="11-engine">BMW Engine</h2>
+<h2><a name="11-engine">BMW Engine</h2>
 ![image](https://github.com/bbauska/BMW-Blog/blob/main/images/11-engine/bmw%20engine%20m54.png?raw=true)
 
 [**`^        back to top        ^`**](#)
