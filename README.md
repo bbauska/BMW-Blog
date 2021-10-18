@@ -122,7 +122,8 @@ https://github.com/bbauska/bmw-blog.git
 ## Cooling System Water Hoses
 
 [**`^        back to top        ^`**](#)
-![image](https://github.com/bbauska/BMW-Blog/blob/main/images/17-radiator/30-cooling-system-hoses/17.30%20Cooling%20System%20Water%20Hoses.png?raw=true)
+[![Coolant Hoses](https://github.com/bbauska/BMW-Blog/blob/main/images/17-radiator/30-cooling-system-hoses/17.30%20Cooling%20System%20Water%20Hoses.png?raw=true)]
+  
 <!--- -------------------------------------------------------------- -->
 <!--- --------------------- rear wheelhouse ------------------------ -->
 <!--- -------------------------------------------------------------- -->
