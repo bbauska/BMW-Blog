@@ -31,6 +31,15 @@ https://github.com/bbauska/bmw-blog.git
 19.  [Brakes](#34-brakes)
 20.  [Pedals](#35-pedals)
 21.  [Wheels](#36-wheels)
+22.  [Body Work](#41-bodywork)
+23.  [Vehicle Trim](#51-vehicle-trim)
+24.  [Seats](#52-seats)
+25.  [Sliding Roof/Folding Top](#54-sliding-roof)
+26.  [Vehicle Electrical System](#61-vehicle-electrical)
+27.  [Instruments](#62-instruments)
+28.  [Lighting](#63-lighting)
+29.  [Heater and Air Conditioning](#64-heater-air)
+30.  [Individual Equipment](#91-ind-equipment)
 
 ## External links
 
@@ -98,7 +107,9 @@ https://github.com/bbauska/bmw-blog.git
 ![image](https://github.com/bbauska/BMW-Blog/blob/main/images/17-radiator/05-radiator/17.05%20Expansion%20Tank%20-%20Standard%20Transmission.png?raw=true)
 
 [**`^        back to top        ^`**](#)
-
+<!--- -------------------------------------------------------------- -->
+<!--- --------------- 17-radiator - cooling system water hoses ------------------- -->
+<!--- -------------------------------------------------------------- -->
 ### Front body bracket (left & right)
 ![image](https://github.com/bbauska/BMW-Blog/blob/main/images/41-bodywork/10-front-body/41.10%20Front%20Body%20Bracket%20Left.png?raw=true)
 ![image](https://github.com/bbauska/BMW-Blog/blob/main/images/41-bodywork/10-front-body/41.10%20Front%20Body%20Bracket%20Right.png?raw=true)
@@ -116,7 +127,9 @@ https://github.com/bbauska/bmw-blog.git
 <!--- --------------------- rear wheelhouse ------------------------ -->
 <!--- -------------------------------------------------------------- -->
 ## Rear Wheelhouse
+<h2><a name="rear-wheelhouse">Rear Wheelhouse</h2>
 
+![image](https://github.com/bbauska/BMW-Blog/blob/main/images/00%20anatomy.png?raw=true)
 [**`^        back to top        ^`**](#)
 
 <!--- -------------------------------------------------------------- -->
