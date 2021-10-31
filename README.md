@@ -11,36 +11,37 @@ https://github.com/bbauska/bmw-blog.git
 <h2><a name="bmw-toc">Table of Contents</h2>
 
 1.  [BMW Components {anatomy}](#bmw-anatomy)
-2.  [Parts & Tools Needed](#bmw-parts)
-3.  [BMW Engine](#11-engine)
-4.  [Engine Electrical](#12-engine-elec)
-5.  [CCV](#bmw-ccv)
-6.  [Fuel Preparation System](#13-fuel-preparation)
-7.  [Fuel System](#16-fuel-supply)
-8.  [Radiator](#17-radiator)
-9.  [Exhaust System](#18-exhaust)
-10.  [Clutch](#21-clutch)
-11.  [Engine & Transmission Suspension](#22-eng-tran-suspension)
-12.  [Manual Transmission](#23-manual-transmission)
-13.  [Automatic Transmission](#24-automatic-transmission)
-14.  [Gearshift](#25-gearshift)
-15.  [Drive Shaft](#26-drive-shaft)
-16.  [Front Axle](#31-front-axle)
-17.  [Steering](#32-steering)
-18.  [Rear Axle](#33-rear-axle)
-19.  [Brakes](#34-brakes)
-20.  [Pedals](#35-pedals)
-21.  [Wheels](#36-wheels)
-22.  [Body Work](#41-bodywork)
-23.  [Vehicle Trim](#51-vehicle-trim)
-24.  [Seats](#52-seats)
-25.  [Sliding Roof/Folding Top](#54-sliding-roof)
-26.  [Vehicle Electrical System](#61-vehicle-electrical)
-27.  [Instruments](#62-instruments)
-28.  [Lighting](#63-lighting)
-29.  [Heater and Air Conditioning](#64-heater-air)
-30.  [Individual Equipment](#91-ind-equipment)
-
+2.  [Intake & Exhaust Camshaft Position Sensors](#bmw-cam-sensor)
+3.  [Parts & Tools Needed](#bmw-parts)
+4.  [BMW Engine](#11-engine)
+5.  [Engine Electrical](#12-engine-elec)
+6.  [CCV](#bmw-ccv)
+7.  [Fuel Preparation System](#13-fuel-preparation)
+8.  [Fuel System](#16-fuel-supply)
+9.  [Radiator](#17-radiator)
+10.  [Exhaust System](#18-exhaust)
+11.  [Clutch](#21-clutch)
+12.  [Engine & Transmission Suspension](#22-eng-tran-suspension)
+13.  [Manual Transmission](#23-manual-transmission)
+14.  [Automatic Transmission](#24-automatic-transmission)
+15.  [Gearshift](#25-gearshift)
+16.  [Drive Shaft](#26-drive-shaft)
+17.  [Front Axle](#31-front-axle)
+18.  [Steering](#32-steering)
+19.  [Rear Axle](#33-rear-axle)
+20.  [Brakes](#34-brakes)
+21.  [Pedals](#35-pedals)
+22.  [Wheels](#36-wheels)
+23.  [Body Work](#41-bodywork)
+24.  [Vehicle Trim](#51-vehicle-trim)
+25.  [Seats](#52-seats)
+26.  [Sliding Roof/Folding Top](#54-sliding-roof)
+27.  [Vehicle Electrical System](#61-vehicle-electrical)
+28.  [Instruments](#62-instruments)
+29.  [Lighting](#63-lighting)
+30.  [Heater and Air Conditioning](#64-heater-air)
+31.  [Individual Equipment](#91-ind-equipment)
+  
 ## External links
 
 [**`^        back to top        ^`**](#)
@@ -48,6 +49,13 @@ https://github.com/bbauska/bmw-blog.git
 ## More work to do or done:
 
 <h2><a name="bmw-anatomy">BMW Anatomy</h2>
+
+![image](https://github.com/bbauska/BMW-Blog/blob/main/images/00%20anatomy.png?raw=true)
+
+[**`^        back to top        ^`**](#)
+
+
+<h2><a name="bmw-cam-sensor">BMW Camshaft (Intake & Exhaust) Sensors</h2>
 
 ![image](https://github.com/bbauska/BMW-Blog/blob/main/images/00%20anatomy.png?raw=true)
 
