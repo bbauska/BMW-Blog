@@ -127,7 +127,7 @@ https://github.com/bbauska/bmw-blog.git
 <!--- ---------------------------------------------------------------------------- -->
 <!--- ---------------- cooling system - radiator & water hoses ------------------- -->
 <!--- ---------------------------------------------------------------------------- -->
-<h2><a name="17-05 Radiator">Cooling System</h2>
+<h2><a name="17-radiator">Cooling System</h2>
 
 [**`^        back to top        ^`**](#)
 
