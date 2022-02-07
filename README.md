@@ -44,7 +44,7 @@ https://github.com/bbauska/bmw-blog.git
 
 ## External links
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#bmw-toc)
 
 ## More work to do or done:
 
