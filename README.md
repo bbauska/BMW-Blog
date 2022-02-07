@@ -50,16 +50,16 @@ https://github.com/bbauska/bmw-blog.git
 
 <h2><a name="bmw-anatomy">BMW Anatomy</h2>
 
-![image](https://github.com/bbauska/BMW-Blog/blob/main/images/00%20anatomy.png?raw=true)
+![BMW Anatomy](/images/00%20anatomy.png?raw=true)
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#bmw-toc)
 
 
 <h2><a name="bmw-cam-sensor">BMW Camshaft (Intake & Exhaust) Sensors</h2>
 
-![image](https://github.com/bbauska/BMW-Blog/blob/main/images/00%20anatomy.png?raw=true)
+![BMW Camshaft](/images/00%20anatomy.png?raw=true)
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#bmw-toc)
 
 [How to Replace Front Suspension (video)](#bmw-front-suspension)
 [Sun/Moon Roof {remove & repair}](#bmw-sunroof)
@@ -81,7 +81,7 @@ https://github.com/bbauska/bmw-blog.git
 
 ## BMW Engine
 <h2><a name="11-engine">BMW Engine</h2>
-![image](https://github.com/bbauska/BMW-Blog/blob/main/images/11-engine/bmw%20engine%20m54.png?raw=true)
+![BMW Engine](/images/11-engine/bmw%20engine%20m54.png?raw=true)
 
 [**`^        back to top        ^`**](#)
 
