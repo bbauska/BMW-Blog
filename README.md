@@ -154,7 +154,11 @@ https://github.com/bbauska/bmw-blog.git
 <!--- -------------------------------------------------------------- -->
 <!--- ----------------------             --------------------------- -->
 <!--- -------------------------------------------------------------- -->
+## Fuel Tank Attaching Parts
+<h2><a name="13-fuel-preparation">Fuel Tank Attaching Parts</h2>
 
+![Fuel tank attaching parts](https://github.com/bbauska/BMW-Blog/blob/main/images/16-fuel-supply/05-fuel-tank/16.05%20Fuel%20Tank%20Attaching%20Parts.png?raw=true)
+ 
 [**`^        back to top        ^`**](#)
 
 <!--- -------------------------------------------------------------- -->
