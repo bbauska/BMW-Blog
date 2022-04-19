@@ -1,6 +1,6 @@
-# BMW 325i E46 M54 ET37
+<h2>BMW 325i E46 M54 ET37</h2>
 
-## made in South Africa 2/2004
+<h3>made in South Africa 2/2004</h3>
 
 ---
 
@@ -42,11 +42,11 @@ https://github.com/bbauska/bmw-blog.git
 30.  [Heater and Air Conditioning](#64-heater-air)
 31.  [Individual Equipment](#91-ind-equipment)
 
-## External links
+ <h2>External links</h2>
 
 [**`^        back to top        ^`**](#bmw-toc)
 
-## More work to do or done:
+<h2>More work to do or done:</h2>
 
 <h2><a name="bmw-anatomy">BMW Anatomy</h2>
 
@@ -80,12 +80,14 @@ https://github.com/bbauska/bmw-blog.git
 
 [**`^        back to top        ^`**](#bmw-toc)
 
-## BMW Engine
+<h2>BMW Engine</h2>
+
 <h2><a name="11-engine">BMW Engine</h2>
 ![BMW Engine](/images/11-engine/bmw%20engine%20m54.png?raw=true)
 
 [**`^        back to top        ^`**](#bmw-toc)
-## Sun/Moon Roof (R & R)
+
+<h2>Sun/Moon Roof (R & R)</h2>
 
 <h2><a name="bmw-sunroof">Sun/Moon Roof Remove & Repair</h2>
 
@@ -94,31 +96,33 @@ https://github.com/bbauska/bmw-blog.git
 
 [**`^        back to top        ^`**](#bmw-toc)
 
-### Front Axle Support / Wishbone
+<h3>Front Axle Support / Wishbone</h3>
 <h2><a name="31-front-axle">Front Axle/Suspension</h2>
 ![image](https://github.com/bbauska/BMW-Blog/blob/main/images/31-front-axle/31.05%20Suspension%20Wishbone.png?raw=true)
 
 [**`^        back to top        ^`**](#bmw-toc)
 
-#### Parts is parts
+<h4>Parts is parts</h4>
 
 [**`^        back to top        ^`**](#bmw-toc)
 
-#### Control arms and bushings, ball joints, tie rods, and stabilizer end links for a more complete front suspension rebuild
+<h4>Control arms and bushings, ball joints, tie rods, and stabilizer end links for a more complete front suspension rebuild</h4>
 
 ![image](https://github.com/bbauska/BMW-Blog/blob/main/images/31-front-axle/31.05%20Suspension%20Wishbone.png?raw=true)
 
 [**`^        back to top        ^`**](#bmw-toc)
 
-### Expansion Tank / Radiator
+<h3>Expansion Tank / Radiator</h3>
 
 ![image](https://github.com/bbauska/BMW-Blog/blob/main/images/17-radiator/05-radiator/17.05%20Expansion%20Tank%20-%20Standard%20Transmission.png?raw=true)
 
 [**`^        back to top        ^`**](#)
+
 <!--- ---------------------------------------------------------------------------- -->
 <!--- --------------- 17-radiator - cooling system water hoses ------------------- -->
 <!--- ---------------------------------------------------------------------------- -->
-### Front body bracket (left & right)
+<h3>Front body bracket (left & right)</h3>
+
 ![image](https://github.com/bbauska/BMW-Blog/blob/main/images/41-bodywork/10-front-body/41.10%20Front%20Body%20Bracket%20Left.png?raw=true)
 ![image](https://github.com/bbauska/BMW-Blog/blob/main/images/41-bodywork/10-front-body/41.10%20Front%20Body%20Bracket%20Right.png?raw=true)
 
@@ -138,11 +142,11 @@ https://github.com/bbauska/bmw-blog.git
 <!--- -------------------------------------------------------------- -->
 <!--- --------------------- rear wheelhouse ------------------------ -->
 <!--- -------------------------------------------------------------- -->
-## Rear Wheelhouse
+<h2>Rear Wheelhouse</h2>
+
 <h2><a name="rear-wheelhouse">Rear Wheelhouse</h2>
 
 ![image](https://github.com/bbauska/BMW-Blog/blob/main/images/00%20anatomy.png?raw=true)
-[**`^        back to top        ^`**](#)
 
 <!--- -------------------------------------------------------------- -->
 <!--- ----------------------- Microfilter -------------------------- -->
