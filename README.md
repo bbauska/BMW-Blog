@@ -1,6 +1,8 @@
-<h2>BMW 325i E46 M54 ET37</h2>
-
-<h3>made in South Africa 2/2004</h3>
+<h2 align="center">BMW 325i E46 M54 ET37</h2>
+<!------------------------------------------------------------------------------------------------>
+<!--------------------------------- readme.md of BMW.bauska.org ---------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<h3 align="center">made in South Africa 2/2004</h3>
 
 ---
 
@@ -97,9 +99,14 @@ https://github.com/bbauska/bmw-blog.git
 [**`^        back to top        ^`**](#bmw-toc)
 
 <h3>Front Axle Support / Wishbone</h3>
-<h2><a name="31-front-axle">Front Axle/Suspension</h2>
-![image](https://github.com/bbauska/BMW-Blog/blob/main/images/31-front-axle/31.05%20Suspension%20Wishbone.png?raw=true)
+<h3><a name="31-front-axle">Front Axle/Suspension</h3>
 
+<p align="center" width="100%">
+<img src="/images/31-front-axle/31.05%20Suspension%20Wishbone.png?raw=true"
+   alt="Front Axle"
+   width="50%" />
+</p>
+ 
 [**`^        back to top        ^`**](#bmw-toc)
 
 <h4>Parts is parts</h4>
