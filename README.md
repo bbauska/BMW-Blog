@@ -56,14 +56,17 @@ https://github.com/bbauska/bmw-blog.git
 
 ![BMW Anatomy](/images/00%20anatomy.png?raw=true)
 
-[**`^        back to top        ^`**](#bmw-toc)
-
+<div align="right">
+   <b><a href="#bmw-toc">↥ Back To Top</a></b>
+</div>
 
 <h2><a name="bmw-cam-sensor">BMW Camshaft (Intake & Exhaust) Sensors</h2>
 
 ![BMW Camshaft](/images/00%20anatomy.png?raw=true)
 
-[**`^        back to top        ^`**](#bmw-toc)
+<div align="right">
+   <b><a href="#bmw-toc">↥ Back To Top</a></b>
+</div>
 
 [How to Replace Front Suspension (video)](#bmw-front-suspension)
 [Sun/Moon Roof {remove & repair}](#bmw-sunroof)
@@ -76,20 +79,26 @@ https://github.com/bbauska/bmw-blog.git
 [Wheelhouse](#wheelhouse)
 [DISA Valve](#disa)
 
-[**`^        back to top        ^`**](#bmw-toc)
+<div align="right">
+   <b><a href="#bmw-toc">↥ Back To Top</a></b>
+</div>
 
 <h2><a name="bmw-parts">Parts & Tools</h2>
 
 [Parts & Tools](#bmw-parts)
 
-[**`^        back to top        ^`**](#bmw-toc)
+<div align="right">
+   <b><a href="#bmw-toc">↥ Back To Top</a></b>
+</div>
 
 <h2>BMW Engine</h2>
 
 <h2><a name="11-engine">BMW Engine</h2>
 ![BMW Engine](/images/11-engine/bmw%20engine%20m54.png?raw=true)
 
-[**`^        back to top        ^`**](#bmw-toc)
+<div align="right">
+   <b><a href="#bmw-toc">↥ Back To Top</a></b>
+</div>
 
 <h2>Sun/Moon Roof (R & R)</h2>
 
@@ -98,7 +107,9 @@ https://github.com/bbauska/bmw-blog.git
 <h2><a name="bmw-sunroof-shade-clip">Shade Clip Remove & Repair</h2>
 <h2><a name="bmw-sunroof-etc">More Sun/Moon Roof</h2>
 
-[**`^        back to top        ^`**](#bmw-toc)
+<div align="right">
+   <b><a href="#bmw-toc">↥ Back To Top</a></b>
+</div>
 
 <h3>Front Axle Support / Wishbone</h3>
 <h3><a name="31-front-axle">Front Axle/Suspension</h3>
@@ -109,23 +120,31 @@ https://github.com/bbauska/bmw-blog.git
    width="50%" />
 </p>
  
-[**`^        back to top        ^`**](#bmw-toc)
+<div align="right">
+   <b><a href="#bmw-toc">↥ Back To Top</a></b>
+</div>
 
 <h4>Parts is parts</h4>
 
-[**`^        back to top        ^`**](#bmw-toc)
+<div align="right">
+   <b><a href="#bmw-toc">↥ Back To Top</a></b>
+</div>
 
 <h4>Control arms and bushings, ball joints, tie rods, and stabilizer end links for a more complete front suspension rebuild</h4>
 
 ![image](https://github.com/bbauska/BMW-Blog/blob/main/images/31-front-axle/31.05%20Suspension%20Wishbone.png?raw=true)
 
-[**`^        back to top        ^`**](#bmw-toc)
+<div align="right">
+   <b><a href="#bmw-toc">↥ Back To Top</a></b>
+</div>
 
 <h3>Expansion Tank / Radiator</h3>
 
 ![image](https://github.com/bbauska/BMW-Blog/blob/main/images/17-radiator/05-radiator/17.05%20Expansion%20Tank%20-%20Standard%20Transmission.png?raw=true)
 
-[**`^        back to top        ^`**](#)
+<div align="right">
+   <b><a href="#bmw-toc">↥ Back To Top</a></b>
+</div>
 
 <!--- ---------------------------------------------------------------------------- -->
 <!--- --------------- 17-radiator - cooling system water hoses ------------------- -->
@@ -135,14 +154,18 @@ https://github.com/bbauska/bmw-blog.git
 ![image](https://github.com/bbauska/BMW-Blog/blob/main/images/41-bodywork/10-front-body/41.10%20Front%20Body%20Bracket%20Left.png?raw=true)
 ![image](https://github.com/bbauska/BMW-Blog/blob/main/images/41-bodywork/10-front-body/41.10%20Front%20Body%20Bracket%20Right.png?raw=true)
 
-[**`^        back to top        ^`**](#)
+<div align="right">
+   <b><a href="#bmw-toc">↥ Back To Top</a></b>
+</div>
 
 <!--- ---------------------------------------------------------------------------- -->
 <!--- ---------------- cooling system - radiator & water hoses ------------------- -->
 <!--- ---------------------------------------------------------------------------- -->
 <h2><a name="17-radiator">Cooling System</h2>
 
-[**`^        back to top        ^`**](#)
+<div align="right">
+   <b><a href="#bmw-toc">↥ Back To Top</a></b>
+</div>
 
 [![Cooling System Water Hoses](https://github.com/bbauska/BMW-Blog/blob/main/images/17-radiator/30-cooling-system-hoses/17.30%20Cooling%20System%20Water%20Hoses.png?raw=true)]
 [![Cooling System Water Hoses Parts List](https://github.com/bbauska/BMW-Blog/blob/main/images/17-radiator/30-cooling-system-hoses/17.30%20Cooling%20System%20Water%20Hoses-parts-list.png?raw=true)]
@@ -208,35 +231,41 @@ After hearing from other BMW owners, the part brand recommended would NOT be Deu
 <!--------------------------------------------------------------------->  
 ## Front Side Panel
 
-[**`^        back to top        ^`**](#)
-
+<div align="right">
+   <b><a href="#bmw-toc">↥ Back To Top</a></b>
+</div>
 <!--------------------------------------------------------------------->  
 <!-------------------------- front wheelhouse ------------------------->  
 <!--------------------------------------------------------------------->  
 ## Front Wheelhouse
 
-[**`^        back to top        ^`**](#)
-
+<div align="right">
+   <b><a href="#bmw-toc">↥ Back To Top</a></b>
+</div>
 <!--------------------------------------------------------------------->    
 <!------------------------- rear wheelhouse --------------------------->    
 <!--------------------------------------------------------------------->    
 ## Service history for 2004 bmw 325i e46 with m54 v6
 
-[**`^        back to top        ^`**](#)
-
+<div align="right">
+   <b><a href="#bmw-toc">↥ Back To Top</a></b>
+</div>
 <!--------------------------------------------------------------------->    
 <!----------------------- Exterior Trim & Grill ----------------------->  
 <!--------------------------------------------------------------------->  
 ## Exterior Trim & Grill
 
-[**`^        back to top        ^`**](#)
-
+<div align="right">
+   <b><a href="#bmw-toc">↥ Back To Top</a></b>
+</div>
 <!--- -------------------------------------------------------------- -->
 <!--- ---------------------- External Links------------------------- -->
 <!--- -------------------------------------------------------------- -->
 ## External links
 
-[**`^        back to top        ^`**](#)
+<div align="right">
+   <b><a href="#bmw-toc">↥ Back To Top</a></b>
+</div>
 <!--- -------------------------------------------------------------- -->
 <!--- -------------------- Awesome Big Data ------------------------ -->
 <!--- -------------------------------------------------------------- -->
@@ -244,3 +273,6 @@ After hearing from other BMW owners, the part brand recommended would NOT be Deu
 - [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata) - Curated list of awesome big data frameworks, resources and other awesomeness.
 
 [**`^        back to top        ^`**](#)
+<div align="right">
+   <b><a href="#bmw-toc">↥ Back To Top</a></b>
+</div>
