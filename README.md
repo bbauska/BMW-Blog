@@ -44,7 +44,7 @@ https://github.com/bbauska/bmw-blog.git
 30.  [Heater and Air Conditioning](#64-heater-air)
 31.  [Individual Equipment](#91-ind-equipment)
 
- <h2>External links</h2>
+<h2>External links</h2>
 
 <div align="right">
    <b><a href="#bmw-toc">↥ Back To Top</a></b>
@@ -53,8 +53,14 @@ https://github.com/bbauska/bmw-blog.git
 <h2>More work to do or done:</h2>
 
 <h2><a name="bmw-anatomy">BMW Anatomy</h2>
-
-![BMW Anatomy](/images/00%20anatomy.png?raw=true)
+<!------------------------------------------------------------------------------------------------>
+<!----------------------------------------- bmw anatomy ------------------------------------------>
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/00%20anatomy.png?raw=true"
+	width="66%"
+   alt="BMW Anatomy" />
+</p>
 
 <div align="right">
    <b><a href="#bmw-toc">↥ Back To Top</a></b>
@@ -183,14 +189,14 @@ https://github.com/bbauska/bmw-blog.git
 <!--- -------------------------------------------------------------- -->
 <!--- ----------------------- Microfilter -------------------------- -->
 <!--- -------------------------------------------------------------- -->
-## Microfilter
+<h2>Microfilter</h2>
 
 [**`^        back to top        ^`**](#)
 
 <!--- -------------------------------------------------------------- -->
 <!--- ----------------------             --------------------------- -->
 <!--- -------------------------------------------------------------- -->
-## Fuel Tank Attaching Parts
+<h2>Fuel Tank Attaching Parts</h2>
 <h2><a name="13-fuel-preparation">Fuel Tank Attaching Parts</h2>
 
 ![Fuel tank attaching parts](https://github.com/bbauska/BMW-Blog/blob/main/images/16-fuel-supply/05-fuel-tank/16.05%20Fuel%20Tank%20Attaching%20Parts.png?raw=true)
@@ -206,7 +212,7 @@ https://github.com/bbauska/bmw-blog.git
 <!--- -------------------------------------------------------------- -->
 <!--- ---------------- suspension remove & replace ----------------- -->
 <!--- -------------------------------------------------------------- -->
-## BMW Suspension Replace
+<h2>BMW Suspension Replace</h2>
 
 <h4="bmw-front-suspension">BMW Suspension Replace
 
@@ -229,7 +235,7 @@ After hearing from other BMW owners, the part brand recommended would NOT be Deu
 <!--------------------------------------------------------------------->  
 <!------------------------- front side panel -------------------------->  
 <!--------------------------------------------------------------------->  
-## Front Side Panel
+<h2>Front Side Panel</h2>
 
 <div align="right">
    <b><a href="#bmw-toc">↥ Back To Top</a></b>
@@ -237,7 +243,7 @@ After hearing from other BMW owners, the part brand recommended would NOT be Deu
 <!--------------------------------------------------------------------->  
 <!-------------------------- front wheelhouse ------------------------->  
 <!--------------------------------------------------------------------->  
-## Front Wheelhouse
+<h2>Front Wheelhouse</h2>
 
 <div align="right">
    <b><a href="#bmw-toc">↥ Back To Top</a></b>
@@ -245,7 +251,7 @@ After hearing from other BMW owners, the part brand recommended would NOT be Deu
 <!--------------------------------------------------------------------->    
 <!------------------------- rear wheelhouse --------------------------->    
 <!--------------------------------------------------------------------->    
-## Service history for 2004 bmw 325i e46 with m54 v6
+<h2>Service history for 2004 bmw 325i e46 with m54 v6</h2>
 
 <div align="right">
    <b><a href="#bmw-toc">↥ Back To Top</a></b>
@@ -253,7 +259,7 @@ After hearing from other BMW owners, the part brand recommended would NOT be Deu
 <!--------------------------------------------------------------------->    
 <!----------------------- Exterior Trim & Grill ----------------------->  
 <!--------------------------------------------------------------------->  
-## Exterior Trim & Grill
+<h2>Exterior Trim & Grill</h2>
 
 <div align="right">
    <b><a href="#bmw-toc">↥ Back To Top</a></b>
@@ -261,7 +267,7 @@ After hearing from other BMW owners, the part brand recommended would NOT be Deu
 <!--- -------------------------------------------------------------- -->
 <!--- ---------------------- External Links------------------------- -->
 <!--- -------------------------------------------------------------- -->
-## External links
+<h2>External links</h2>
 
 <div align="right">
    <b><a href="#bmw-toc">↥ Back To Top</a></b>
