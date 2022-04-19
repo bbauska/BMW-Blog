@@ -46,7 +46,9 @@ https://github.com/bbauska/bmw-blog.git
 
  <h2>External links</h2>
 
-[**`^        back to top        ^`**](#bmw-toc)
+<div align="right">
+   <b><a href="#bmw-toc">↥ Back To Top</a></b>
+</div>
 
 <h2>More work to do or done:</h2>
 
