@@ -173,6 +173,9 @@ https://github.com/bbauska/bmw-blog.git
 
 <h4>Control arms and bushings, ball joints, tie rods, and stabilizer end links for a more complete front suspension rebuild</h4>
 
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------------------- wishbone suspension ------------------------------------->
+<!------------------------------------------------------------------------------------------------>
 ![image](https://github.com/bbauska/BMW-Blog/blob/main/images/31-front-axle/31.05%20Suspension%20Wishbone.png?raw=true)
 
 <div align="right">
@@ -214,7 +217,6 @@ https://github.com/bbauska/bmw-blog.git
 [![Cooling System Water Hoses](https://github.com/bbauska/BMW-Blog/blob/main/images/17-radiator/30-cooling-system-hoses/17.30%20Cooling%20System%20Water%20Hoses.png?raw=true)]
 [![Cooling System Water Hoses Parts List](https://github.com/bbauska/BMW-Blog/blob/main/images/17-radiator/30-cooling-system-hoses/17.30%20Cooling%20System%20Water%20Hoses-parts-list.png?raw=true)]
 
-
 <!--- -------------------------------------------------------------- -->
 <!--- --------------------- rear wheelhouse ------------------------ -->
 <!--- -------------------------------------------------------------- -->
@@ -238,14 +240,18 @@ https://github.com/bbauska/bmw-blog.git
 <h2><a name="13-fuel-preparation">Fuel Tank Attaching Parts</h2>
 
 ![Fuel tank attaching parts](https://github.com/bbauska/BMW-Blog/blob/main/images/16-fuel-supply/05-fuel-tank/16.05%20Fuel%20Tank%20Attaching%20Parts.png?raw=true)
- 
-[**`^        back to top        ^`**](#)
+
+<div align="right">
+   <b><a href="#bmw-toc">↥ Back To Top</a></b>
+</div>
 
 <!--- -------------------------------------------------------------- -->
 <!--- ----------------------             --------------------------- -->
 <!--- -------------------------------------------------------------- -->
 
-[**`^        back to top        ^`**](#)
+<div align="right">
+   <b><a href="#bmw-toc">↥ Back To Top</a></b>
+</div>
 
 <!--- -------------------------------------------------------------- -->
 <!--- ---------------- suspension remove & replace ----------------- -->
@@ -261,14 +267,18 @@ How to remove and replace your steering tie rod(s) and lower control arm(s) in a
 <p>
 After hearing from other BMW owners, the part brand recommended would NOT be Deutche Parts, but Lemforder, Meyle, Febi, and maybe Karlyn.  The Lemforder and Meyle are more OEM related and have proven to be superior steering/suspension hardware in the aftermarket world.  These parts were eventually changed out (again) due to poor quality and I replaced with OEM dealer parts and they've held up quite well (over 50k miles) and working great.  It's always good to change out the control arm bushings (pivot ones towards the back) at least every 50-60k miles to keep things tight.  Use this video just for procedure purposes, buy the best parts you can afford.
 </p>
-[**`^        back to top        ^`**](#)
+<div align="right">
+   <b><a href="#bmw-toc">↥ Back To Top</a></b>
+</div>
 
 <!--------------------------------------------------------------------->  
 <!---------------------------- master key ----------------------------->  
 <!--------------------------------------------------------------------->  
 ## Master Key
 
-[**`^        back to top        ^`**](#)
+<div align="right">
+   <b><a href="#bmw-toc">↥ Back To Top</a></b>
+</div>
 
 <!--------------------------------------------------------------------->  
 <!------------------------- front side panel -------------------------->  
