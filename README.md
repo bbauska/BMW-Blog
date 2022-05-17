@@ -160,7 +160,7 @@ https://github.com/bbauska/bmw-blog.git
 <p align="center" width="100%">
 <img src="/images/31-front-axle/31.05%20Suspension%20Wishbone.png?raw=true"
    alt="Front Axle"
-   width="50%" />
+   width="85%" />
 </p>
 
 <div align="right">
@@ -170,7 +170,7 @@ https://github.com/bbauska/bmw-blog.git
 <h4>Parts is parts</h4>
 
 <h4>Control arms and bushings, ball joints, tie rods, and stabilizer end links for a more complete front suspension rebuild</h4>
-
+<hr>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- wishbone suspension ------------------------------------->
 <!------------------------------------------------------------------------------------------------>
