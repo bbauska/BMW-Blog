@@ -28,7 +28,9 @@ https://github.com/bbauska/bmw-blog.git
 14.  [Automatic Transmission](#24-automatic-transmission)
 15.  [Gearshift](#25-gearshift)
 16.  [Drive Shaft](#26-drive-shaft)
+
 17.  [Front Axle](#31-front-axle)
+ 
 18.  [Steering](#32-steering)
 19.  [Rear Axle](#33-rear-axle)
 20.  [Brakes](#34-brakes)
@@ -166,10 +168,6 @@ https://github.com/bbauska/bmw-blog.git
 </div>
 
 <h4>Parts is parts</h4>
-
-<div align="right">
-   <b><a href="#bmw-toc">↥ Back To Top</a></b>
-</div>
 
 <h4>Control arms and bushings, ball joints, tie rods, and stabilizer end links for a more complete front suspension rebuild</h4>
 
