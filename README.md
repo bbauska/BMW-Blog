@@ -157,13 +157,17 @@ https://github.com/bbauska/bmw-blog.git
 <!------------------------------------------------------------------------------------------------>
 <h3><a name="31-front-axle">Front Axle/Suspension</h3>
  
-<p>Front Suspension <a href="https://www.realoem.com/bmw/enUS/showparts?id=ET37-USA-02-2004-E46-BMW-325i&diagId=31_0600">here</a></p>
+<p>Front Suspension <a href="https://www.realoem.com/bmw/enUS/showparts?id=ET37-USA-02-2004-E46-BMW-325i&diagId=31_0600">vlick here</a></p>
 
 <p align="center" width="100%">
 <img src="/images/31-front-axle/31.05%20Suspension%20Wishbone.png?raw=true"
    alt="Front Axle"
    width="85%" />
 </p>
+
+ <p>Service Kit/Control Arm <a href=" ">clivk here</a></p>
+
+ https://www.realoem.com/bmw/enUS/showparts?id=ET37-USA-02-2004-E46-BMW-325i&diagId=31_0865
 
 <div align="right">
    <b><a href="#bmw-toc">↥ Back To Top</a></b>
