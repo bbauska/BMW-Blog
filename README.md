@@ -153,9 +153,11 @@ https://github.com/bbauska/bmw-blog.git
 
 <h3>Front Axle Support / Wishbone</h3>
 <!------------------------------------------------------------------------------------------------>
-<!--------------------------------- front axle/wishbone suspensio -------------------------------->
+<!--------------------------------- 17. front axle/wishbone suspensio -------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <h3><a name="31-front-axle">Front Axle/Suspension</h3>
+ 
+<p>Front Suspension <a href="https://www.realoem.com/bmw/enUS/showparts?id=ET37-USA-02-2004-E46-BMW-325i&diagId=31_0600">here</a></p>
 
 <p align="center" width="100%">
 <img src="/images/31-front-axle/31.05%20Suspension%20Wishbone.png?raw=true"
