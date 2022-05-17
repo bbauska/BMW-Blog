@@ -162,7 +162,7 @@ https://github.com/bbauska/bmw-blog.git
    alt="Front Axle"
    width="50%" />
 </p>
- 
+
 <div align="right">
    <b><a href="#bmw-toc">↥ Back To Top</a></b>
 </div>
@@ -174,8 +174,11 @@ https://github.com/bbauska/bmw-blog.git
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- wishbone suspension ------------------------------------->
 <!------------------------------------------------------------------------------------------------>
-![image](https://github.com/bbauska/BMW-Blog/blob/main/images/31-front-axle/31.05%20Suspension%20Wishbone.png?raw=true)
-
+<p align="center" width="100%">
+<img src="/images/31-front-axle/31.05%20Suspension%20Wishbone.png?raw=true"
+   alt="Front Axle"
+   width="50%" />
+</p>
 <div align="right">
    <b><a href="#bmw-toc">↥ Back To Top</a></b>
 </div>
