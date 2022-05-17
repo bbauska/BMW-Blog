@@ -29,7 +29,7 @@ https://github.com/bbauska/bmw-blog.git
 15.  [Gearshift](#25-gearshift)
 16.  [Drive Shaft](#26-drive-shaft)
 
- <h1> 17.  <a href="#31-front-axle">[Front Axle]</a></h1>
+<h1> 17.  <a href="#31-front-axle">Front Axle/Wishbone Suspension</a></h1>
  
 18.  [Steering](#32-steering)
 19.  [Rear Axle](#33-rear-axle)
