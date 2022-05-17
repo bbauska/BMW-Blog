@@ -173,6 +173,8 @@ https://github.com/bbauska/bmw-blog.git
    <b><a href="#bmw-toc">↥ Back To Top</a></b>
 </div>
 
+<p>Front Axle Stabilizer Bar <a href="https://www.estore-central.com/bmw-parts-catalog/E46-325i-M54/Sedan/Front-Axle/Stabilizer-Front/">Click here</a></p>
+ 
 <h4>Parts is parts</h4>
 
 <h4>Control arms and bushings, ball joints, tie rods, and stabilizer end links for a more complete front suspension rebuild</h4>
