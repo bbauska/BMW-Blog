@@ -4,6 +4,61 @@
 <!------------------------------------------------------------------------------------------------>
 <h3 align="center">made in South Africa 2/2004</h3>
 
+<!----------->
+<!------------------------------------------------------------------------------------------------>
+<!------------------------------------------ bmw logo -------------------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/bmw-1.png?raw=true"
+   alt="BMW logo"
+   width="40%" />
+</p>
+
+<hr/>
+<h3>Tools/Parts</h3>
+<h4>2-4 lb sledge hammer</h4>
+<h4>pickle fork or clutch puller</h4>
+<h4>4 replacement bolts</h4>
+<br/>
+<!------------------------------------------------------------------------------------------------>
+<h1>Fix BMW front end</h1>
+
+<h2><b><i>1st</i></b> Outer Tie Rods (Remove & Replace)</h2>
+<ul>
+  <li><h3><a href="https://www.youtube.com/watch?v=usfbSLE_1aI&t=726s">Control Arms, Bushings, Ball Joints, Tie Rods, & End Links</a></h3></li>
+  <li><h3><a href="https://www.youtube.com/watch?v=75Qt_O5x2M0">See here for directions</a></h3></li>
+  <li><h3><a href="https://www.youtube.com/watch?v=faKhwzbO6H4">A1auto directions</a></h3></li>
+  <li><h3><a href="https://www.youtube.com/watch?v=75Qt_O5x2M0">50's Kid Tie Rod R & R</a></h3></li>
+</ul>
+<hr />
+<h2>Lower Control Arms R & R</h2>
+<ul>
+    <li><h3><a href="https://www.youtube.com/watch?v=e5xaIwkA_oE">Shoplife R & R</a></h4></li>
+    <li><h3><a href="https://www.youtube.com/watch?v=5olCf8zpad4">a1auto Lower Control Arm Remove & Replace</a></h3></li>
+    <li><h3><a href="https://www.youtube.com/watch?v=aR4UPFbjgnI">50's Guy Lower Control Arm R & R</a></h3></li>
+    <li><h3><a href="https://www.youtube.com/watch?v=iQhQu1ZrTno">How to remove & replace Control Arm Bushings</a></h3></li>
+</ul>
+<hr />
+
+<h3>Tools Required to Self-Align</h3>
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------------- tools for front-end alignment --------------------------------->
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/2004 bmw front end alignment supplies tools needed.png"
+   alt="Tools needed for front-end alignment"
+   width="40%" />
+</p>
+
+<hr />
+<!------------------------------------------------------------------------------------------------>
+<h3>Ford Fusion</h3>
+<h4><b>Change oil</b></h4>
+
+<hr />
+
+
+<!----------->
 ---
 
 [**Jump to TOC**](#bmw-toc)  
