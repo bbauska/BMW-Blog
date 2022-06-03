@@ -4,8 +4,8 @@ Additional documents (usually pdf) on "how to" change oil, rebuild suspension, r
 <!------------------------------------------------------------------------------------------------>
 <!---------------------------------------- 01. figure 1 ------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/Picture1.jpg?raw=true"
-   alt="Linux logo"
+<img src="/images/pic01.jpg?raw=true"
+   alt="R &amp; R Stabilizer Bar"
    width="40%" />
 </p>
 &nbsp;
@@ -47,7 +47,7 @@ Vehicle models change and evolve as they grow older, so the vehicle shown in our
 <!---------------------------------------- 01. figure 1 ------------------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/Picture1.jpg?raw=true"
+<img src="/images/pic01.jpg?raw=true"
    alt="Stabalizer install, picture #1"
    width="40%" />
 </p>
@@ -59,7 +59,7 @@ To begin, raise and support the front of the vehicle on jack stands. If you need
 <!---------------------------------------- 02. figure 2 ------------------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/Picture2.jpg?raw=true"
+<img src="/images/pic02.jpg?raw=true"
    alt="Stabalizer install, picture #2"
    width="40%" />
 </p>
@@ -68,7 +68,7 @@ Figure 2	Working at the front strut, remove the stabilizer link nut by counter-h
 <!---------------------------------------- 03. figure 3 ------------------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/Picture3.jpg?raw=true"
+<img src="/images/pic03.jpg?raw=true"
    alt="Stabalizer install, picture #3"
    width="40%" />
 </p>
