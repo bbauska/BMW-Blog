@@ -4,7 +4,7 @@ Additional documents (usually pdf) on "how to" change oil, rebuild suspension, r
 <!------------------------------------------------------------------------------------------------>
 <!---------------------------------------- 01. figure 1 ------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/fig1.jpg?raw=true"
+<img src="/images/Picture1.jpg?raw=true"
    alt="Linux logo"
    width="40%" />
 </p>
@@ -47,17 +47,32 @@ Vehicle models change and evolve as they grow older, so the vehicle shown in our
 <!---------------------------------------- 01. figure 1 ------------------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-<img src="/images/fig1.jpg?raw=true"
-   alt="Linux logo"
+<img src="/images/Picture1.jpg?raw=true"
+   alt="Stabalizer install, picture #1"
    width="40%" />
 </p>
 Figure 1	This picture shows the stabilizer link (green arrow) connecting o the vehicle stabilizer bar to the front strut.
 
 To begin, raise and support the front of the vehicle on jack stands. If you need help with this step, please refer to our Pelican Parts Technical Article on Jacking Up Your BMW. Now remove the front wheel from the side of the vehicle you are replacing control arm on. Next, remove the front wheel from the side of vehicle you are replacing the link on.
  
+<!------------------------------------------------------------------------------------------------>
+<!---------------------------------------- 02. figure 2 ------------------------------------------>
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/Picture2.jpg?raw=true"
+   alt="Stabalizer install, picture #2"
+   width="40%" />
+</p>
 Figure 2	Working at the front strut, remove the stabilizer link nut by counter-holding the link with a 15 or 16mm wrench and loosening the 16mm nut. The stabilizer link has a flat spot for holding while tightening. This flat spot size can vary between 15mm and 16mm.
+<!------------------------------------------------------------------------------------------------>
+<!---------------------------------------- 03. figure 3 ------------------------------------------>
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/Picture3.jpg?raw=true"
+   alt="Stabalizer install, picture #3"
+   width="40%" />
+</p>
 
- 
 Figure 3	Working at the front stabilizer bar, remove the stabilizer link nut (green arrow) by counter-holding the link (purple arrow) with a 15mm or 16mm wrench and loosening the 16mm nut. Next, remove the stabilizer link from the vehicle.
 
 Reverse removal instructions for installation. 
