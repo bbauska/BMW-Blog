@@ -1,4 +1,14 @@
 Additional documents (usually pdf) on "how to" change oil, rebuild suspension, replace moon roof, and so forth.
+<!------------------------------------------------------------------------------------------------>
+<!-------------------------------- readme.md in bmw-blog.bauska.org ------------------------------>
+<!------------------------------------------------------------------------------------------------>
+<!---------------------------------------- 01. figure 1 ------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/fig1.jpg?raw=true"
+   alt="Linux logo"
+   width="40%" />
+</p>
+&nbsp;
 
 Replacing Your Stabilizer Links
 <p>
@@ -33,6 +43,14 @@ Do not work on your vehicle if you feel the task is beyond your ability.
 
 Vehicle models change and evolve as they grow older, so the vehicle shown in our illustrations may vary slightly from yours. </p>
 
+<!------------------------------------------------------------------------------------------------>
+<!---------------------------------------- 01. figure 1 ------------------------------------------>
+<!------------------------------------------------------------------------------------------------>
+<p align="center" width="100%">
+<img src="/images/fig1.jpg?raw=true"
+   alt="Linux logo"
+   width="40%" />
+</p>
 Figure 1	This picture shows the stabilizer link (green arrow) connecting o the vehicle stabilizer bar to the front strut.
 
 To begin, raise and support the front of the vehicle on jack stands. If you need help with this step, please refer to our Pelican Parts Technical Article on Jacking Up Your BMW. Now remove the front wheel from the side of the vehicle you are replacing control arm on. Next, remove the front wheel from the side of vehicle you are replacing the link on.
