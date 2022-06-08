@@ -26,7 +26,6 @@
 <h2><b><i>1st</i></b> Outer Tie Rods (Remove & Replace)</h2>
 <ul>
   <li><h3><a href="https://www.youtube.com/watch?v=usfbSLE_1aI&t=726s">Control Arms, Bushings, Ball Joints, Tie Rods, & End Links</a></h3></li>
-  <li><h3><a href="https://www.youtube.com/watch?v=75Qt_O5x2M0">See here for directions</a></h3></li>
   <li><h3><a href="https://www.youtube.com/watch?v=faKhwzbO6H4">A1auto directions</a></h3></li>
   <li><h3><a href="https://www.youtube.com/watch?v=75Qt_O5x2M0">50's Kid Tie Rod R & R</a></h3></li>
 </ul>
@@ -58,8 +57,6 @@
 <hr />
 
 
-<!----------->
----
 
 [**Jump to TOC**](#bmw-toc)  
 
