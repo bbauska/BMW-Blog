@@ -17,7 +17,7 @@ body {
   font-size: 18px;
   border: none;
   outline: none;
-  background-color: red;
+  background-color: #700000;  /* very dark red */
   color: white;
   cursor: pointer;
   padding: 15px;
@@ -25,5 +25,5 @@ body {
 }
 
 #myBtn:hover {
-  background-color: #555;
+  background-color: #ffc0cb;  /* very pale red */
 }
