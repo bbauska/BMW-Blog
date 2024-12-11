@@ -380,7 +380,7 @@ just for procedure purposes, buy the best parts you can afford.</p>
 <a href="https://github.com/onurakpolat/awesome-bigdata">
 Awesome Big Data</a> - Curated list of awesome big data frameworks, resources and other awesomeness.
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#bmw-toc)
 
 <div align="right">
    <b><a href="#bmw-toc">↥ Back To Top</a></b>
