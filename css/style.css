@@ -1,8 +1,13 @@
-<style>
+<!-- style of bmw-blog.bauska.org -->
 body {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 20px;
+  font-size: 20px;   /* 1.2rem; */
+  background-color: #f5f5f5;  /* very light gray, was #eeeeee */
+  color: #000000;  /* black */
+  text-align: left;
+  padding: 10px;
 }
+
 #myBtn {
   display: none;
   position: fixed;
@@ -22,4 +27,3 @@ body {
 #myBtn:hover {
   background-color: #555;
 }
-</style>
