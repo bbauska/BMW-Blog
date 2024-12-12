@@ -53,6 +53,8 @@
 
 https://github.com/bbauska/bmw-blog.git
 
+<a href="https://thetrackahead.com/projects/bmw-e46/how-to-change-cabin-air-filter-bmw-e46-3-series/">Air Filter R & R</a>
+
 <h2><a id="bmw-toc">Table of Contents</h2>
 
  1.  [BMW Components {anatomy}](#bmw-anatomy)
