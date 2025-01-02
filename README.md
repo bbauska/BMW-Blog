@@ -45,7 +45,7 @@
   <img src="./images/2004-bmw-frontend-alignment-supplies-tools-needed.png"
   title="Tools needed for front-end alignment"
   alt="Tools needed for front-end alignment."
-  style="width:40%;"  <!-- border: 2px solid #000000; width:400px;" -->
+  style="width:20%;"  <!-- border: 2px solid #000000; width:400px;" -->
 </p>
 <hr />
 
