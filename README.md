@@ -282,11 +282,12 @@ complete front suspension rebuild</h4>
   style="width:85%;"
   title="BMW Cooling System - Radiator &amp; Water Hoses"
   alt="BMW Cooling System - Radiator &amp; Water Hoses."
+</p>
 <img src="/images/17-radiator/30-cooling-system-hoses/17.30-Cooling-System-Water-Hoses-parts-list.png"
   style="width:85%;"
-  title="BMW Cooling System - Radiator &amp; Water Hoses"
-  alt="BMW Cooling System - Radiator &amp; Water Hoses."
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ cooling system - radiator & water hoses ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  title="BMW Cooling System - Radiator &amp; Water Hoses - parts list"
+  alt="BMW Cooling System - Radiator &amp; Water Hoses - parts list."
+</p>
 <div align="right">
    <b><a href="#bmw-toc">↥ Back To Top</a></b>
 </div>
