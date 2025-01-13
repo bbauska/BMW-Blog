@@ -259,25 +259,37 @@ complete front suspension rebuild</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 17-radiator - cooling system water hoses ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Front body bracket (left & right)</h3>
-
-![image](https://github.com/bbauska/BMW-Blog/blob/main/images/41-bodywork/10-front-body/41.10%20Front%20Body%20Bracket%20Left.png?raw=true)
-![image](https://github.com/bbauska/BMW-Blog/blob/main/images/41-bodywork/10-front-body/41.10%20Front%20Body%20Bracket%20Right.png?raw=true)
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ BMW Expansion Tank ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/41-bodywork/10-front-body/41.10-Front-Body-Bracket-Left.png"
+  style="width:25%;"
+  title="BMW Front Body Bracket (left)"
+  alt="BMW Front Body Bracket (left)."
+<img src="/images/41-bodywork/10-front-body/41.10-Front-Body-Bracket-Right.png"
+  style="width:25%;"
+  title="BMW Front Body Bracket (right)"
+  alt="BMW Front Body Bracket (right)."
+</p>
 <div align="right">
    <b><a href="#bmw-toc">↥ Back To Top</a></b>
 </div>
 
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ cooling system - radiator & water hoses ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2><a id="17-radiator">Cooling System</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ BMW Cooling System - radiator & water hoses ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/17-radiator/30-cooling-system-hoses/17.30-Cooling-System-Water-Hoses.png"
+  style="width:85%;"
+  title="BMW Cooling System - Radiator &amp; Water Hoses"
+  alt="BMW Cooling System - Radiator &amp; Water Hoses."
+<img src="/images/17-radiator/30-cooling-system-hoses/17.30-Cooling-System-Water-Hoses-parts-list.png"
+  style="width:85%;"
+  title="BMW Cooling System - Radiator &amp; Water Hoses"
+  alt="BMW Cooling System - Radiator &amp; Water Hoses."
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ cooling system - radiator & water hoses ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <div align="right">
    <b><a href="#bmw-toc">↥ Back To Top</a></b>
 </div>
-
-[![Cooling System Water Hoses](https://github.com/bbauska/BMW-Blog/blob/main/images/17-radiator/30-cooling-system-hoses/17.30%20Cooling%20System%20Water%20Hoses.png?raw=true)]
-[![Cooling System Water Hoses Parts List](https://github.com/bbauska/BMW-Blog/blob/main/images/17-radiator/30-cooling-system-hoses/17.30%20Cooling%20System%20Water%20Hoses-parts-list.png?raw=true)]
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ rear wheelhouse ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Rear Wheelhouse</h2>
