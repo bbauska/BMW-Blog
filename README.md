@@ -103,9 +103,10 @@ https://github.com/bbauska/bmw-blog.git
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ BMW anatomy ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/bmw-anatomy.png?raw=true"
-   width="85%"
-   alt="BMW Anatomy" />
+<img src="/images/bmw-anatomy.png"
+  style="width:85%;"
+  title="BMW Anatomy"
+  alt="BMW Anatomy." />
 </p>
 
 <div align="right">
@@ -115,9 +116,10 @@ https://github.com/bbauska/bmw-blog.git
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ BMW camshaft sensor ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<img src="/images/bmw-anatomy.png?raw=true"
-   width="85%"
-   alt="BMW Camshaft" />
+<img src="/images/bmw-anatomy.png"
+  style="width:85%;"
+  title="BMW Camshaft"
+  alt="BMW Camshaft." />
 </p>
 
 <h2><a id="bmw-cam-sensor">BMW Camshaft (Intake & Exhaust) Sensors</h2>
@@ -170,8 +172,14 @@ https://github.com/bbauska/bmw-blog.git
 <div align="right">
    <b><a href="#bmw-toc">↥ Back To Top</a></b>
 </div>
-
-![BMW Engine](/images/11-engine/bmw-engine-m54.png?raw=true)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ BMW Engine ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/11-engine/bmw-engine-m54.png"
+  style="width:85%;"
+  title="BMW Engine"
+  alt="BMW Engine." />
+</p>
 
 <div align="right">
    <b><a href="#bmw-toc">↥ Back To Top</a></b>
@@ -197,14 +205,14 @@ https://github.com/bbauska/bmw-blog.git
 <p>Front Suspension w/parts list 
 <a href="https://www.realoem.com/bmw/enUS/showparts?id=ET37-USA-02-2004-E46-BMW-325i&diagId=31_0600">click here</a></p>
 <p align="center" width="100%">
-<img src="/images/31-front-axle/31.05%20Suspension%20Wishbone.png?raw=true"
-   alt="Front Axle"
-   width="85%" />
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ BMW camshaft sensor ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="/images/31-front-axle/31.05-Suspension-Wishbone.png"
+  style="width:85%;"
+  title="BMW Front Axle"
+  alt="BMW Front Axle." />
 </p>
-&nbsp;
-&nbsp;
-<br/>
-
 <p>OEM Front Suspension w/parts list 
 <a href="https://www.estore-central.com/bmw-parts-catalog/E46-325i-M54/Sedan/Front-Axle/Front-Axle-Support-Wishbone-2/">
 click here</a></p>
@@ -235,12 +243,13 @@ complete front suspension rebuild</h4>
 
 <h3>Expansion Tank / Radiator</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ bmw expansion tank ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ BMW Expansion Tank ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
-<a href="https://github.com/bbauska/BMW-Blog/blob/main/images/17-radiator/05-radiator/17.05-Expansion-Tank-Standard-Transmission.png?raw=true">
-  title="BMW Expansion Tank"
-  alt="BMW Expansion Tank."
-  width="50%" /></a>
+<img src="/images/17-radiator/05-radiator/17.05-Expansion-Tank-Standard-Transmission.png"
+  style="width:50%;"
+  title="BMW Camshaft"
+  alt="BMW Camshaft." />
 </p>
 
 <div align="right">
